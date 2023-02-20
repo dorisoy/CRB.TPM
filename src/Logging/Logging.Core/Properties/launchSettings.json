@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CRB.TPM.Logging.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49740;http://localhost:49741"
+    }
+  }
+}

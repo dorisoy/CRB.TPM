@@ -1,0 +1,891 @@
+{
+  "Account": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "TenantId": null,
+      "Username": "admin",
+      "Password": "064C36D4610AB78BFA38CCC95AA6068F",
+      "Name": "超级管理员",
+      "Phone": "13002929017",
+      "Email": "tpm@dorisoy.com",
+      "Status": 1,
+      "OrgId": null,
+      "UserBP": null,
+      "LDAPName": null,
+      "ActivatedTime": "2021-06-22 09:00:00",
+      "Deleted": false,
+      "DeletedBy": null,
+      "Deleter": null,
+      "DeletedTime": null,
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    }
+  ],
+  "AccountRole": [
+    {
+      "AccountId": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655"
+    },
+    {
+      "AccountId": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152656"
+    },
+    {
+      "AccountId": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152657"
+    }
+  ],
+  "MenuGroup": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "Name": "通用权限管理平台",
+      "Remarks": "通用权限管理平台",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    }
+  ],
+  "Menu": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "00000000-0000-0000-0000-000000000000",
+      "Type": 0,
+      "Module": "",
+      "RouteName": "",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "lock",
+      "IconColor": "",
+      "Level": 1,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 0,
+      "LocalesConfig": "{\"zh-cn\":\"权限管理\",\"en\":\"Permission Manage\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:17:40",
+      "ModifiedBy": null,
+      "Modifier": null,
+      "ModifiedTime": null
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158881",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "00000000-0000-0000-0000-000000000000",
+      "Type": 0,
+      "Module": "",
+      "RouteName": "",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "data",
+      "IconColor": "",
+      "Level": 1,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 0,
+      "LocalesConfig": "{\"zh-cn\":\"基础数据\",\"en\":\"Base Data\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:17:53",
+      "ModifiedBy": null,
+      "Modifier": null,
+      "ModifiedTime": null
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581156661",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "00000000-0000-0000-0000-000000000000",
+      "Type": 0,
+      "Module": "",
+      "RouteName": "",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "cog",
+      "IconColor": "",
+      "Level": 1,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 0,
+      "LocalesConfig": "{\"zh-cn\":\"系统运维\",\"en\":\"System\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:17:53",
+      "ModifiedBy": null,
+      "Modifier": null,
+      "ModifiedTime": null
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158882",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_menu",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "menu",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 2,
+      "LocalesConfig": "{\"zh-cn\":\"菜单管理\",\"en\":\"Menu Manage\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:18:05",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "超级管理员",
+      "ModifiedTime": "2021-09-06 16:36:08"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_role",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "role",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 3,
+      "LocalesConfig": "{\"zh-cn\":\"角色管理\",\"en\":\"Role Manage\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:18:09",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "超级管理员",
+      "ModifiedTime": "2021-09-06 16:36:08"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_account",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "user",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 4,
+      "LocalesConfig": "{\"zh-cn\":\"账户管理\",\"en\":\"Account Manage\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:18:11",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "超级管理员",
+      "ModifiedTime": "2021-09-06 16:36:08"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_dict",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "dict",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 0,
+      "LocalesConfig": "{\"zh-cn\":\"字典管理\",\"en\":\"Dict Manage\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:18:24",
+      "ModifiedBy": null,
+      "Modifier": null,
+      "ModifiedTime": null
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158886",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_module",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "module",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 1,
+      "LocalesConfig": "{\"zh-cn\":\"模块中心\",\"en\":\"Module Center\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:36:04",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "超级管理员",
+      "ModifiedTime": "2021-09-06 16:36:08"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581158887",
+      "GroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "ParentId": "6722c640-4128-c0b5-e1cf-c05581156661",
+      "Type": 1,
+      "Module": "admin",
+      "RouteName": "admin_config",
+      "RouteParams": "",
+      "RouteQuery": "",
+      "Url": "",
+      "Icon": "wrench",
+      "IconColor": "",
+      "Level": 2,
+      "OpenTarget": 0,
+      "DialogWidth": "800px",
+      "DialogHeight": "600px",
+      "DialogFullscreen": false,
+      "CustomJs": "",
+      "Remarks": "",
+      "Show": true,
+      "Sort": 1,
+      "LocalesConfig": "{\"zh-cn\":\"配置中心\",\"en\":\"Config Center\"}",
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "超级管理员",
+      "CreatedTime": "2021-09-06 16:36:04",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "超级管理员",
+      "ModifiedTime": "2021-09-06 16:36:08"
+    }
+  ],
+  "Role": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "Name": "管理员",
+      "Code": "admin",
+      "Remarks": "超级管理员",
+      "Locked": false,
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "Deleted": false,
+      "DeletedBy": null,
+      "Deleter": null,
+      "DeletedTime": null,
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581152656",
+      "Name": "ITBP",
+      "Code": "ITBP",
+      "Remarks": "ITBP运维",
+      "Locked": false,
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "Deleted": false,
+      "DeletedBy": null,
+      "Deleter": null,
+      "DeletedTime": null,
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581152657",
+      "Name": "业务员",
+      "Code": "Salesman",
+      "Remarks": "业务员",
+      "Locked": false,
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "Deleted": false,
+      "DeletedBy": null,
+      "Deleter": null,
+      "DeletedTime": null,
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    }
+  ],
+  "RoleMenu": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148200",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "MenuType": 0
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148201",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158886",
+      "MenuType": 1
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148202",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158882",
+      "MenuType": 1
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148203",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "MenuType": 1
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148204",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "MenuType": 1
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148205",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158881",
+      "MenuType": 0
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581148206",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "MenuType": 1
+    }
+  ],
+  "RoleButton": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142020",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menu_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142021",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menu_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142022",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menu_remove"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142023",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menugroup_manage"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142024",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menugroup_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142025",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menugroup_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142026",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "ButtonCode": "admin_menugroup_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142027",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "ButtonCode": "admin_role_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142028",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "ButtonCode": "admin_role_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142029",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "ButtonCode": "admin_role_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142030",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "ButtonCode": "admin_role_bindmenu"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142031",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "ButtonCode": "admin_account_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142032",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "ButtonCode": "admin_account_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142033",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "ButtonCode": "admin_account_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142034",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dict_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142035",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dict_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142036",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dict_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142037",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictgroup_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142038",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictgroup_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142039",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictgroup_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142040",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictitem_add"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142041",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictitem_edit"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c04471142042",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "ButtonCode": "admin_dictitem_delete"
+    }
+  ],
+  "RolePermission": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142043",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_tree_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142044",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142045",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_updatesort_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142046",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_select_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142047",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142048",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142049",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142050",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menu_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142051",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142052",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142053",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142054",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142055",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158880",
+      "PermissionCode": "admin_menugroup_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142056",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142057",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142058",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142059",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142060",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142061",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_menu_tree_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142062",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_querybindmenus_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142063",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158883",
+      "PermissionCode": "admin_role_updatebindmenus_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142064",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142065",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_defaultpassword_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142066",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142067",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142068",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c03471142069",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158884",
+      "PermissionCode": "admin_account_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420670",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dict_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420671",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictgroup_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420672",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictitem_query_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420673",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dict_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420674",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dict_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420675",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dict_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420676",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dict_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420677",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictgroup_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420678",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictgroup_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420678",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictgroup_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420680",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictgroup_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420681",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictitem_add_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420682",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictitem_edit_get"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420683",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictitem_update_post"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420684",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158885",
+      "PermissionCode": "admin_dictitem_delete_delete"
+    },
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c034711420685",
+      "RoleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+      "MenuGroupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+      "MenuId": "6722c640-4128-c0b5-e1cf-c05581158886",
+      "PermissionCode": "admin_module_permissions_get"
+    }
+  ]
+}

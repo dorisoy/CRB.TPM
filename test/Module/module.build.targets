@@ -1,0 +1,28 @@
+<Project>
+
+  <PropertyGroup>
+    <ModulesDir>_modules\$(Id)_$(Code)</ModulesDir>
+    <ModuleName>$(ModulesDir)\_module.json</ModuleName>
+    <ModuleInfo>{"Id": $(Id),"Name":"$(Name)","Code":"$(Code)","Icon":"$(Icon)","Version":"$(Version)","Description":"$(Description)"}</ModuleInfo>
+  </PropertyGroup>
+
+  <!--生成_module.json文件-->
+  <Target Name="ModulesBuild" AfterTargets="Build">
+
+    <!--创建modules目录-->
+    <MakeDir Directories="$(ModulesDir)"/>
+
+    <!--生成module.json文件，Note：项目需要生成两次，否则Nuget包中的文件不是最新的-->
+    <WriteLinesToFile File="$(ModuleName)" Overwrite="true" Lines="$(ModuleInfo)" />
+
+  </Target>
+
+  <ItemGroup>
+	  <Content Include="_modules*\**\**" PackagePath="contentFiles\any\any">
+		  <Pack>true</Pack>
+		  <PackageCopyToOutput>true</PackageCopyToOutput>
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+</Project>

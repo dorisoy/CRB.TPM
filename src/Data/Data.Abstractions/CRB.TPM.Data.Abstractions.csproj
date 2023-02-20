@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Description>CRB.TPM数据访问抽象库</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="_site\**" />
+	  <EmbeddedResource Remove="_site\**" />
+	  <None Remove="_site\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove=".gitignore" />
+	  <None Remove="ClassDiagram1.cd" />
+	  <None Remove="docfx.json" />
+	  <None Remove="Entities\ClassDiagram1.cd" />
+	  <None Remove="index.md" />
+	  <None Remove="log.txt" />
+	  <None Remove="toc.yml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.0.123" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+	  <ProjectReference Include="..\Data.Sharding\CRB.TPM.Data.Sharding.csproj" />
+	</ItemGroup>
+
+</Project>

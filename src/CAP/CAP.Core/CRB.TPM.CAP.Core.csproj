@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CRB.TPM 缓存抽象库</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+    <ProjectReference Include="..\CAP.Abstractions\CRB.TPM.CAP.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

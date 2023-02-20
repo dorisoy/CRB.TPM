@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CRB.TPM 缓存抽象库</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP" Version="7.0.1" />
+    <PackageReference Include="DotNetCore.CAP.InMemoryStorage" Version="7.0.1" />
+    <PackageReference Include="DotNetCore.CAP.MySql" Version="7.0.1" />
+    <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="7.0.1" />
+    <PackageReference Include="DotNetCore.CAP.SqlServer" Version="7.0.1" />
+    <PackageReference Include="Savorboard.CAP.InMemoryMessageQueue" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

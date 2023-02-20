@@ -1,0 +1,35 @@
+﻿<Project>
+	<PropertyGroup>
+		<Version>1.0.3</Version>
+		<Authors>Dorisoy</Authors>
+		<NoWarn>$(NoWarn);1591</NoWarn>
+		<LangVersion>Latest</LangVersion>
+		<TargetFramework>net6.0</TargetFramework>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		
+		<!--snupkg 与相应的 NuGet 包 (.nupkg) 具有相同的 ID 和版本.-->
+		<!--.snupkg 具有与任何 DLL 或 EXE 文件的相应 .nupkg 相同的文件夹结构，区别在于其相应的 PDB 将包含在同一文件夹层次结构中，而不是 DLL/EXE 中。-->
+		
+		<!--使用新的包符号结构-->
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		
+		<!--"这里不用指定根命名空间 CRB.TPM.Data.Adapter.MySql"-->
+		<!--<RootNamespacePrefix></RootNamespacePrefix>-->
+		
+		<!--禁用隐式命名空间导入，防止与自定义文件冲突-->
+		<DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+		<!--<AssemblyName>$(RootNamespacePrefix).$(MSBuildProjectName)</AssemblyName>-->
+		
+		<AssemblyName>$(MSBuildProjectName)</AssemblyName>
+		<RootNamespace>$(AssemblyName)</RootNamespace>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+		<PackageOutputPath>$(SolutionDir)\_packages</PackageOutputPath>
+		<Company>CRB.TPM</Company>
+		<Copyright>Copyright：2022-2099</Copyright>
+		<PackageProjectUrl>https://tpm.dorisoy.com/</PackageProjectUrl>
+		<RepositoryUrl>http://devops.crb.cn/gitlab/chenzhenghongIT/CRB.TPM.git</RepositoryUrl>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,34 @@
+{
+    "name": "ps_department",
+    "icon": "folder-open-fill",
+    "path": "/ps/department",
+    "permissions": [
+        "ps_department_query_get",
+        "ps_department_tree_get",
+        "ps_department_updatesort_post"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "ps_department_add",
+            "permissions": [
+                "ps_department_add_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "ps_department_edit",
+            "permissions": [
+                "ps_department_edit_get",
+                "ps_department_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "ps_department_delete",
+            "permissions": [
+                "ps_department_delete_delete"
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "ps_position",
+    "icon": "folder-open-fill",
+    "path": "/ps/position",
+    "permissions": [
+        "ps_position_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "ps_position_add",
+            "permissions": [
+                "ps_position_add_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "ps_position_edit",
+            "permissions": [
+                "ps_position_edit_get",
+                "ps_position_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "ps_position_delete",
+            "permissions": [
+                "ps_position_delete_delete"
+            ]
+        }
+    }
+}

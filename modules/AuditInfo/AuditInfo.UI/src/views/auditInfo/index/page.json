@@ -1,0 +1,24 @@
+{
+    "name": "auditinfo_auditinfo",
+    "icon": "captcha",
+    "path": "/auditinfo/auditinfo",
+    "permissions": [
+        "auditinfo_auditinfo_query_get"
+    ],
+    "buttons": {
+        "details": {
+            "text": "详细",
+            "code": "auditinfo_auditinfo_details",
+            "permissions": [
+                "auditinfo_auditinfo_details_get"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "auditinfo_auditinfo_export",
+            "permissions": [
+                "auditinfo_auditinfo_export_post"
+            ]
+        }
+    }
+}

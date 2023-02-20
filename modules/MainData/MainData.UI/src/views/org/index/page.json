@@ -1,0 +1,40 @@
+{
+    "name": "maindata_org",
+    "icon": "captcha",
+    "path": "/maindata/org",
+    "permissions": [
+        "maindata_org_query_get",
+        "maindata_org_tree_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_org_add",
+            "permissions": [
+                "maindata_org_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_org_export",
+            "permissions": [
+                "maindata_org_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_org_edit",
+            "permissions": [
+                "maindata_org_edit_get",
+                "maindata_org_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_org_delete",
+            "permissions": [
+                "maindata_org_delete_delete"
+            ]
+        }
+    }
+}

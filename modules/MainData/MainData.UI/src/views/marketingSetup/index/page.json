@@ -1,0 +1,39 @@
+{
+    "name": "maindata_marketingsetup",
+    "icon": "captcha",
+    "path": "/maindata/marketingsetup",
+    "permissions": [
+        "maindata_marketingsetup_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_marketingsetup_add",
+            "permissions": [
+                "maindata_marketingsetup_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_marketingsetup_export",
+            "permissions": [
+                "maindata_marketingsetup_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_marketingsetup_edit",
+            "permissions": [
+                "maindata_marketingsetup_edit_get",
+                "maindata_marketingsetup_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_marketingsetup_delete",
+            "permissions": [
+                "maindata_marketingsetup_delete_delete"
+            ]
+        }
+    }
+}

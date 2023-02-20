@@ -1,0 +1,39 @@
+{
+    "name": "maindata_distributor",
+    "icon": "captcha",
+    "path": "/maindata/distributor",
+    "permissions": [
+        "maindata_mdistributor_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_mdistributor_add",
+            "permissions": [
+                "maindata_mdistributor_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_mdistributor_export",
+            "permissions": [
+                "maindata_mdistributor_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_mdistributor_edit",
+            "permissions": [
+                "maindata_mdistributor_edit_get",
+                "maindata_mdistributor_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_mdistributor_delete",
+            "permissions": [
+                "maindata_mdistributor_delete_delete"
+            ]
+        }
+    }
+}

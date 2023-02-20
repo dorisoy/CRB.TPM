@@ -1,0 +1,32 @@
+{
+    "name": "ps_employee",
+    "icon": "folder-open-fill",
+    "path": "/ps/employee",
+    "permissions": [
+        "ps_employee_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "ps_employee_add",
+            "permissions": [
+                "ps_employee_add_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "ps_employee_edit",
+            "permissions": [
+                "ps_employee_edit_get",
+                "ps_employee_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "ps_employee_delete",
+            "permissions": [
+                "ps_employee_delete_delete"
+            ]
+        }
+    }
+}

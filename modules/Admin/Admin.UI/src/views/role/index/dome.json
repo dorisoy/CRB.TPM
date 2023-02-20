@@ -1,0 +1,162 @@
+[
+    {
+        "HeadOfficeID": {
+            "Id": "f7596215-773e-4c6f-a10c-2899c294bd61",
+            "OrgCode": "50000609",
+            "Name": "雪花总部"
+        },
+        "DbID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "MarketingCenterID": {
+            "Id": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+            "OrgCode": "50002431",
+            "Name": "北京营销中心"
+        },
+        "SaleRegionID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": "中心非现饮销售大区"
+        },
+        "DepartmentID": {
+            "Id": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+            "OrgCode": "50181234",
+            "Name": "中心非现饮销售大区"
+        },
+        "StationID": {
+            "Id": "1e108d4e-e030-42dc-b585-859ff443d3c5",
+            "OrgCode": "",
+            "Name": ""
+        }
+    },
+    {
+        "HeadOfficeID": {
+            "Id": "f7596215-773e-4c6f-a10c-2899c294bd61",
+            "OrgCode": "50000609",
+            "Name": "雪花总部"
+        },
+        "DbID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "MarketingCenterID": {
+            "Id": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+            "OrgCode": "50002431",
+            "Name": "北京营销中心"
+        },
+        "SaleRegionID": {
+            "Id": "5d224e1f-53b4-4c70-a30a-0f1d0bca43df",
+            "OrgCode": "50253260",
+            "Name": "朝阳非现饮工作站"
+        },
+        "DepartmentID": {
+            "Id": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+            "OrgCode": "50181234",
+            "Name": "中心非现饮销售大区"
+        },
+        "StationID": {
+            "Id": "4ddc6d6e-68d0-4e6b-8196-6ab8d80c398c",
+            "OrgCode": "50253262",
+            "Name": "朝阳非现饮工作站"
+        }
+    },
+    {
+        "HeadOfficeID": {
+            "Id": "f7596215-773e-4c6f-a10c-2899c294bd61",
+            "OrgCode": "50000609",
+            "Name": "雪花总部"
+        },
+        "DbID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "MarketingCenterID": {
+            "Id": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+            "OrgCode": "50002431",
+            "Name": "北京营销中心"
+        },
+        "SaleRegionID": {
+            "Id": "5d224e1f-53b4-4c70-a30a-0f1d0bca43df",
+            "OrgCode": "50253260",
+            "Name": "朝阳业务部"
+        },
+        "DepartmentID": {
+            "Id": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+            "OrgCode": "50181234",
+            "Name": "中心非现饮销售大区"
+        },
+        "StationID": {
+            "Id": "aa9dcb52-59d0-4f79-ba72-beefa1336c8f",
+            "OrgCode": "",
+            "Name": ""
+        }
+    },
+    {
+        "HeadOfficeID": {
+            "Id": "f7596215-773e-4c6f-a10c-2899c294bd61",
+            "OrgCode": "50000609",
+            "Name": "雪花总部"
+        },
+        "DbID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "MarketingCenterID": {
+            "Id": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+            "OrgCode": "50002431",
+            "Name": "北京营销中心"
+        },
+        "SaleRegionID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": "北京营销中心"
+        },
+        "DepartmentID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "StationID": {
+            "Id": "d172157d-178d-419c-a231-52f59569de86",
+            "OrgCode": "",
+            "Name": ""
+        }
+    },
+    {
+        "HeadOfficeID": {
+            "Id": "f7596215-773e-4c6f-a10c-2899c294bd61",
+            "OrgCode": "50000609",
+            "Name": "雪花总部"
+        },
+        "DbID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "MarketingCenterID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "SaleRegionID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": "北京区域公司"
+        },
+        "DepartmentID": {
+            "Id": "00000000-0000-0000-0000-000000000000",
+            "OrgCode": "",
+            "Name": ""
+        },
+        "StationID": {
+            "Id": "7897f202-a88d-4102-9adc-a1f842b9f6b6",
+            "OrgCode": "",
+            "Name": ""
+        }
+    }
+]

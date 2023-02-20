@@ -1,0 +1,26 @@
+{
+  "Account": [
+    {
+      "Id": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "TenantId": null,
+      "RoleId": 1,
+      "Username": "admin",
+      "Password": "064C36D4610AB78BFA38CCC95AA6068F",
+      "Name": "超级管理员",
+      "Phone": "",
+      "Email": "",
+      "Status": 1,
+      "ActivatedTime": "2021-06-22 09:00:00",
+      "Deleted": false,
+      "DeletedBy": null,
+      "Deleter": null,
+      "DeletedTime": null,
+      "CreatedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Creator": "Dorisoy",
+      "CreatedTime": "2021-06-22 09:00:00",
+      "ModifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+      "Modifier": "Dorisoy",
+      "ModifiedTime": "2021-06-22 09:00:00"
+    }
+  ]
+}

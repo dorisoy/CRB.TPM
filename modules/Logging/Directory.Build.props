@@ -1,0 +1,27 @@
+﻿<Project>
+	<PropertyGroup>
+		<Id>6223</Id>
+		<Code>Logging</Code>
+		<Name>TPM日志模块</Name>
+		<Authors>Dorisoy</Authors>
+		<Icon>permission</Icon>
+		<Version>1.0.0</Version>
+		<Description>CRB.TPM Module Logging($(Name)) - $(MSBuildProjectName)</Description>
+		<NoWarn>$(NoWarn);1591</NoWarn>
+		<LangVersion>Latest</LangVersion>
+		<!--禁用隐式命名空间导入，防止与自定义文件冲突-->
+		<DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+		<RootNamespacePrefix>CRB.TPM.Mod</RootNamespacePrefix>
+		<AssemblyName>$(RootNamespacePrefix).$(MSBuildProjectName)</AssemblyName>
+		<RootNamespace>$(AssemblyName)</RootNamespace>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+		<!--设置打包路径-->
+		<PackageOutputPath>$(SolutionDir)\_packages</PackageOutputPath>
+		<Company>CRB.TPM</Company>
+		<Copyright>Copyright：2022-2099</Copyright>
+		<PackageProjectUrl>https://tpm.dorisoy.com/</PackageProjectUrl>
+		<RepositoryUrl>http://devops.crb.cn/gitlab/chenzhenghongIT/CRB.TPM.git</RepositoryUrl>
+	</PropertyGroup>
+</Project>

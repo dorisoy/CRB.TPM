@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.Account.AccountEntity" BaseTypeListCollapsed="true">
+    <Position X="11" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEACAAABAAAQAABAQQAgAAABACAQAgMAAAAAA=</HashCode>
+      <FileName>Domain\Account\AccountEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.AccountRole.AccountRoleEntity">
+    <Position X="8.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\AccountRole\AccountRoleEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.Menu.MenuEntity">
+    <Position X="19" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABiAEEAIEAAAACAAAQAAAYAAAEABABCxAACAEAAAE=</HashCode>
+      <FileName>Domain\Menu\MenuEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.MenuGroup.MenuGroupEntity">
+    <Position X="16.5" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\MenuGroup\MenuGroupEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.Role.RoleEntity">
+    <Position X="14" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiAIAAAAAAAAAgAAQAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Role\RoleEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.RoleButton.RoleButtonEntity">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAAAAAAAAAABAAAAAAAACAAAAA=</HashCode>
+      <FileName>Domain\RoleButton\RoleButtonEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.RoleMenu.RoleMenuEntity">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Domain\RoleMenu\RoleMenuEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Mod.Admin.Core.Domain.RolePermission.RolePermissionEntity">
+    <Position X="5.5" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAAAAAAAAAAAAAAAAABAAACgAAAAAAAAA=</HashCode>
+      <FileName>Domain\RolePermission\RolePermissionEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.EntityBase">
+    <Position X="17.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.EntityBaseSoftDelete&lt;TKey&gt;">
+    <Position X="12" Y="6.75" Width="2.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.Entity&lt;TKey&gt;">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.EntityBaseSoftDelete">
+    <Position X="13.75" Y="9.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.Entity">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CRB.TPM.Data.Abstractions.Entities.EntityBase&lt;TKey&gt;">
+    <Position X="14.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

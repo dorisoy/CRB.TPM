@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.1-dev-00947" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--<ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.MySql\CRB.TPM.Data.Adapter.MySql.csproj" />
+    <ProjectReference Include="..\..\src\Host\Host.Web\CRB.TPM.Host.Web.csproj" />
+    <ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.PostgreSQL\CRB.TPM.Data.Adapter.PostgreSQL.csproj" />
+    <ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.Sqlite\CRB.TPM.Data.Adapter.Sqlite.csproj" />
+    <ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.SqlServer\CRB.TPM.Data.Adapter.SqlServer.csproj" />-->
+    <ProjectReference Include="..\..\..\src\Data\Adapters\Data.Adapter.MySql\CRB.TPM.Data.Adapter.MySql.csproj" />
+    <ProjectReference Include="..\..\..\src\Host\Host.Web\CRB.TPM.Host.Web.csproj" />
+    <ProjectReference Include="..\Module.Web.Tests\Module.Web.csproj" />
+  </ItemGroup>
+
+</Project>

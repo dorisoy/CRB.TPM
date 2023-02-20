@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Description>CRB.TPM 对象映射库</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+		<ProjectReference Include="..\..\Module\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+	</ItemGroup>
+
+</Project>

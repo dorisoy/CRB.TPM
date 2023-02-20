@@ -1,0 +1,33 @@
+{
+    "name": "ps_post",
+    "icon": "folder-open-fill",
+    "path": "/ps/post",
+    "permissions": [
+        "ps_post_query_get",
+        "ps_post_tree_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "ps_post_add",
+            "permissions": [
+                "ps_post_add_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "ps_post_edit",
+            "permissions": [
+                "ps_post_edit_get",
+                "ps_post_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "ps_post_delete",
+            "permissions": [
+                "ps_post_delete_delete"
+            ]
+        }
+    }
+}

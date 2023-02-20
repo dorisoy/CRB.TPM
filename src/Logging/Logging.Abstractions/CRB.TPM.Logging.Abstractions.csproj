@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>CRB.TPM 日志抽象库</Description>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\..\Auth\Auth.Abstractions\CRB.TPM.Auth.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

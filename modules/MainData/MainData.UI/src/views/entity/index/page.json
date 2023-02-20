@@ -1,0 +1,39 @@
+{
+    "name": "maindata_entity",
+    "icon": "captcha",
+    "path": "/maindata/entity",
+    "permissions": [
+        "maindata_entity_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_entity_add",
+            "permissions": [
+                "maindata_entity_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_entity_export",
+            "permissions": [
+                "maindata_entity_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_entity_edit",
+            "permissions": [
+                "maindata_entity_edit_get",
+                "maindata_entity_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_entity_delete",
+            "permissions": [
+                "maindata_entity_delete_delete"
+            ]
+        }
+    }
+}

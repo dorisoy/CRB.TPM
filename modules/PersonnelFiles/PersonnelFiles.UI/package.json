@@ -1,0 +1,43 @@
+{
+  "id": 1,
+  "name": "tpm-mod-ps",
+  "label": "PS组织架构模块",
+  "version": "1.0.0",
+  "icon": "flow",
+  "description": "TPM组织架构模块(PS)",
+  "main": "lib/index.es.js",
+  "scripts": {
+    "dev": "vite --host --config=./build/app.config.js",
+    "serve": "vite preview",
+    "build": "vite build --config=./build/app.config.js",
+    "lib": "rimraf lib && vite build --config=./build/lib.config.js && npm run locale",
+    "locale": "rollup -c node_modules/tpm-ui/build/locales.config.js",
+    "clean": "rimraf lib && rimraf public && rimraf dist",
+    "cm": "rimraf package-lock.json && rimraf node_modules",
+    "cv": "rimraf node_modules/.vite"
+  },
+  "dependencies": {
+    "tpm-mod-admin": "1.0.3",
+    "tpm-ui": "^1.1.5"
+  },
+  "devDependencies": {
+    "@rollup/plugin-image": "^2.1.1",
+    "@rollup/pluginutils": "^4.1.1",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "@vue/compiler-sfc": "^3.2.20",
+    "ejs": "^3.1.6",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-vue": "^7.20.0",
+    "html-minifier-terser": "^5.1.1",
+    "rimraf": "^3.0.2",
+    "sass": "^1.43.3",
+    "vite": "^2.6.11"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

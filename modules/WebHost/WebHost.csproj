@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<UserSecretsId>e12d6066-0b8d-4728-841d-f776a64c8085</UserSecretsId>
+		<ApplicationIcon>app.ico</ApplicationIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Content Remove="appsettings-remote - 副本.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="app.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Serilog.Sinks.File" Version="5.0.1-dev-00947" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.MySql\CRB.TPM.Data.Adapter.MySql.csproj" />
+		<ProjectReference Include="..\..\src\Host\Host.Web\CRB.TPM.Host.Web.csproj" />
+		<ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.PostgreSQL\CRB.TPM.Data.Adapter.PostgreSQL.csproj" />
+		<ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.Sqlite\CRB.TPM.Data.Adapter.Sqlite.csproj" />
+		<ProjectReference Include="..\..\src\Data\Adapters\Data.Adapter.SqlServer\CRB.TPM.Data.Adapter.SqlServer.csproj" />
+		<ProjectReference Include="..\Admin\Admin.Web\Admin.Web.csproj" />
+		<ProjectReference Include="..\AuditInfo\AuditInfo.Web\AuditInfo.Web.csproj" />
+		<ProjectReference Include="..\Logging\Logging.Web\Logging.Web.csproj" />
+		<ProjectReference Include="..\MainData\MainData.Web\MainData.Web.csproj" />
+		<ProjectReference Include="..\Scheduler\Scheduler.Web\Scheduler.Web.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="SP.Web.Tests" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Update="appsettings-remote.Development.json">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="appsettings-remote.json">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+</Project>

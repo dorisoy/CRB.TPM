@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>CRB.TPM 配置核心库</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Cache\Cache.Redis\CRB.TPM.Cache.Redis.csproj" />
+    <ProjectReference Include="..\..\Module\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+    <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+    <ProjectReference Include="..\Config.Abstractions\CRB.TPM.Config.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

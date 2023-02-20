@@ -1,0 +1,405 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1669785538,
+    "data": {
+        "accountId": "6722c640-4128-c0b5-e1cf-c05581152653",
+        "platform": 0,
+        "username": "admin",
+        "name": "超级管理员",
+        "phone": "13002929017",
+        "email": "tpm@dorisoy.com",
+        "avatar": null,
+        "skin": {
+            "name": null,
+            "code": null,
+            "theme": null,
+            "size": null
+        },
+        "tabnav": {
+            "enabled": true,
+            "showHome": true,
+            "homeUrl": "",
+            "showIcon": true,
+            "maxOpenCount": 20
+        },
+        "menus": [
+            {
+                "id": "6722c640-4128-c0b5-e1cf-c05581158881",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "type": 0,
+                "routeName": "",
+                "routeParams": "",
+                "routeQuery": "",
+                "icon": "data",
+                "iconColor": "",
+                "url": "",
+                "target": 0,
+                "dialogWidth": "800px",
+                "dialogHeight": "600px",
+                "dialogFullscreen": false,
+                "level": 1,
+                "sort": 0,
+                "show": true,
+                "buttons": [],
+                "locales": {
+                    "zh-cn": "基础数据",
+                    "en": "Base Data"
+                },
+                "children": [
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158885",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 1,
+                        "routeName": "admin_dict",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "dict",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 0,
+                        "show": true,
+                        "buttons": [
+                            "admin_dict_delete",
+                            "admin_dictitem_delete",
+                            "admin_dictgroup_edit",
+                            "admin_dictitem_add",
+                            "admin_dictgroup_delete",
+                            "admin_dictgroup_add",
+                            "admin_dict_edit",
+                            "admin_dict_add",
+                            "admin_dictitem_edit"
+                        ],
+                        "locales": {
+                            "zh-cn": "字典管理",
+                            "en": "Dict Manage"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "6722c640-4128-c0b5-e1cf-c05581158880",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "type": 0,
+                "routeName": "",
+                "routeParams": "",
+                "routeQuery": "",
+                "icon": "lock",
+                "iconColor": "",
+                "url": "",
+                "target": 0,
+                "dialogWidth": "800px",
+                "dialogHeight": "600px",
+                "dialogFullscreen": false,
+                "level": 1,
+                "sort": 0,
+                "show": true,
+                "buttons": [],
+                "locales": {
+                    "zh-cn": "权限管理",
+                    "en": "Permission Manage"
+                },
+                "children": [
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158883",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_role",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "role",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 3,
+                        "show": true,
+                        "buttons": [
+                            "admin_role_edit",
+                            "admin_role_bindmenu",
+                            "admin_role_delete",
+                            "admin_role_add"
+                        ],
+                        "locales": {
+                            "zh-cn": "角色管理",
+                            "en": "Role Manage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158884",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_account",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "user",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 4,
+                        "show": true,
+                        "buttons": [
+                            "admin_account_roleorgset",
+                            "admin_account_delete",
+                            "admin_account_edit",
+                            "admin_account_add"
+                        ],
+                        "locales": {
+                            "zh-cn": "账户管理",
+                            "en": "Account Manage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158886",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_module",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "module",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 1,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "模块中心",
+                            "en": "Module Center"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158882",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_menu",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "menu",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 2,
+                        "show": true,
+                        "buttons": [
+                            "admin_menu_add",
+                            "admin_menu_remove",
+                            "admin_menu_edit",
+                            "admin_menugroup_manage",
+                            "admin_menugroup_delete",
+                            "admin_menugroup_add",
+                            "admin_menugroup_edit"
+                        ],
+                        "locales": {
+                            "zh-cn": "菜单管理",
+                            "en": "Menu Manage"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ],
+        "buttons": [],
+        "roles": [
+            {
+                "children": null,
+                "label": "管理员",
+                "value": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "disabled": false
+            },
+            {
+                "children": null,
+                "label": "业务员",
+                "value": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "disabled": false
+            },
+            {
+                "children": null,
+                "label": "ITBP",
+                "value": "6722c640-4128-c0b5-e1cf-c05581152656",
+                "disabled": false
+            }
+        ],
+        "accountRoles": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "id": "1194d09f-7792-7739-3079-3a07ce30a01d"
+            },
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "id": "95e74175-c6fd-9936-7a90-3a07ce30a01d"
+            },
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152656",
+                "id": "b8bf8dcc-3d9c-2c58-dbfa-3a07ce30a01d"
+            }
+        ],
+        "accountRoleOrgs": [
+            {
+                "orgId": "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                "id": "2ad958f6-37eb-a4ad-06e4-3a07d5e7036d"
+            },
+            {
+                "orgId": "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                "id": "02b53155-8f5d-b1c0-1246-3a07d5e7036d"
+            },
+            {
+                "orgId": "f11843ee-39a3-48cc-92f6-8aab99a60053",
+                "id": "4131cc44-b4ad-d634-18cc-3a07d5e7036d"
+            },
+            {
+                "orgId": "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                "id": "01ee55b1-1aab-ae5e-2980-3a07d5e7036d"
+            },
+            {
+                "orgId": "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                "id": "ee8dfd66-254e-8a81-2b89-3a07d5e7036d"
+            },
+            {
+                "orgId": "e8eaf058-3e47-410e-9147-180b9dc89aab",
+                "id": "b6100c37-9d5a-c901-35af-3a07d5e7036d"
+            },
+            {
+                "orgId": "f11843ee-39a3-48cc-92f6-8aab99a60053",
+                "id": "7a1bf92b-816a-d922-4310-3a07d5e7036d"
+            },
+            {
+                "orgId": "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                "id": "938be468-cf7e-3070-4782-3a07d5e7036d"
+            },
+            {
+                "orgId": "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                "id": "fdcf8900-ef97-ae44-584c-3a07d5e7036d"
+            },
+            {
+                "orgId": "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                "id": "a0b6e5ba-952a-66a4-5c0b-3a07d5e7036d"
+            },
+            {
+                "orgId": "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                "id": "6d589d81-cf02-a3d6-5ef5-3a07d5e7036d"
+            },
+            {
+                "orgId": "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                "id": "b39bbf82-598a-6c46-6694-3a07d5e7036d"
+            },
+            {
+                "orgId": "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                "id": "d9cd0bab-b5d2-14cd-67a5-3a07d5e7036d"
+            },
+            {
+                "orgId": "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                "id": "c7bc1e4e-0421-2130-7215-3a07d5e7036d"
+            },
+            {
+                "orgId": "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3",
+                "id": "0280c6fb-e873-3558-760a-3a07d5e7036d"
+            },
+            {
+                "orgId": "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                "id": "2eb33815-9b68-3ba1-b80b-3a07d5e7036d"
+            },
+            {
+                "orgId": "e8eaf058-3e47-410e-9147-180b9dc89aab",
+                "id": "9e9b4de1-f5e9-e4fa-bc02-3a07d5e7036d"
+            },
+            {
+                "orgId": "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                "id": "f2beacb0-c5d9-9f87-bec2-3a07d5e7036d"
+            },
+            {
+                "orgId": "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                "id": "2e1476f0-9304-5205-cdab-3a07d5e7036d"
+            },
+            {
+                "orgId": "f11843ee-39a3-48cc-92f6-8aab99a60053",
+                "id": "50bc38a3-ce88-4266-cdaf-3a07d5e7036d"
+            },
+            {
+                "orgId": "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3",
+                "id": "317589aa-f730-b5fd-d10d-3a07d5e7036d"
+            },
+            {
+                "orgId": "e8eaf058-3e47-410e-9147-180b9dc89aab",
+                "id": "3c6a4faa-462a-e87b-f114-3a07d5e7036d"
+            },
+            {
+                "orgId": "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                "id": "5e8aeb7b-5552-b240-f6ec-3a07d5e7036d"
+            },
+            {
+                "orgId": "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3",
+                "id": "2e9c4b8c-f270-57e1-fbf4-3a07d5e7036d"
+            }
+        ],
+        "aros": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "roleName": "管理员",
+                "items": [
+                    "f11843ee-39a3-48cc-92f6-8aab99a60053",
+                    "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                    "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                    "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                    "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                    "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                    "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3",
+                    "e8eaf058-3e47-410e-9147-180b9dc89aab"
+                ]
+            },
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "roleName": "业务员",
+                "items": [
+                    "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                    "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                    "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                    "e8eaf058-3e47-410e-9147-180b9dc89aab",
+                    "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3",
+                    "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                    "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                    "f11843ee-39a3-48cc-92f6-8aab99a60053"
+                ]
+            },
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152656",
+                "roleName": "ITBP",
+                "items": [
+                    "c026a2c6-9e15-46dd-b01f-844e3ca18546",
+                    "f11843ee-39a3-48cc-92f6-8aab99a60053",
+                    "8c8aabf0-d5c2-4600-9045-00fabfb3dbe4",
+                    "2064fbfb-8810-4914-bf8b-f769ecc11c20",
+                    "04199f96-cdf6-452e-8b2e-76ebe2bca82e",
+                    "e8eaf058-3e47-410e-9147-180b9dc89aab",
+                    "22bdbd27-7f21-44eb-bb85-4270d8b75929",
+                    "7e14deaa-04eb-49e6-b86f-bbb8e52b5db3"
+                ]
+            }
+        ]
+    }
+}

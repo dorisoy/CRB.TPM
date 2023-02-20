@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CRB.TPM.Data.Adapter.PostgreSQL": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49750;http://localhost:49751"
+    }
+  }
+}

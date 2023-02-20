@@ -1,0 +1,39 @@
+{
+    "name": "maindata_product",
+    "icon": "captcha",
+    "path": "/maindata/product",
+    "permissions": [
+        "maindata_product_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_product_add",
+            "permissions": [
+                "maindata_product_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_product_export",
+            "permissions": [
+                "maindata_product_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_product_edit",
+            "permissions": [
+                "maindata_product_edit_get",
+                "maindata_product_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_product_delete",
+            "permissions": [
+                "maindata_product_delete_delete"
+            ]
+        }
+    }
+}

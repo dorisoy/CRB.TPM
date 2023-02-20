@@ -1,0 +1,14 @@
+{
+    "name": "admin_config",
+    "icon": "wrench",
+    "path": "/admin/config",
+    "permissions": [
+        "admin_config_query_get",
+        "admin_config_edit_get",
+        "admin_config_update_post",
+        "admin_config_logoUrl_get",
+        "admin_config_uploadLogo_post",
+        "admin_config_descriptors_get"
+    ],
+    "buttons": {}
+}

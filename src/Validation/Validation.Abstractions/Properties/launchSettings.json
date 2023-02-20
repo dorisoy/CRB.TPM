@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CRB.TPM.Validation.Abstractions": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49777;http://localhost:49778"
+    }
+  }
+}

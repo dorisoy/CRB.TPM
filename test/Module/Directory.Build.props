@@ -1,0 +1,27 @@
+﻿<Project>
+	<PropertyGroup>
+		<Id>6220</Id>
+		<Code>Module</Code>
+		<Name>TPM-Module-Test</Name>
+		<Authors>Dorisoy</Authors>
+		<Icon>permission</Icon>
+		<Version>1.0.0</Version>
+		<Description>Module ($(Name)) - $(MSBuildProjectName)</Description>
+		<NoWarn>$(NoWarn);1591</NoWarn>
+		<LangVersion>Latest</LangVersion>
+		<!--禁用隐式命名空间导入，防止与自定义文件冲突-->
+		<DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+		<RootNamespacePrefix>CRB.TPM.Mod</RootNamespacePrefix>
+		<AssemblyName>$(RootNamespacePrefix).$(MSBuildProjectName)</AssemblyName>
+		<RootNamespace>$(AssemblyName)</RootNamespace>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+		<!--设置打包路径-->
+		<PackageOutputPath>$(SolutionDir)\_packages</PackageOutputPath>
+		<Company></Company>
+		<Copyright>Copyright：2022-2099</Copyright>
+		<PackageProjectUrl>https://www.dorisoy.com/</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/dorisoy/CRB.TPM</RepositoryUrl>
+	</PropertyGroup>
+</Project>

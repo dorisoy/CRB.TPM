@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>CRB.TPM Web主机库</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Auth\Auth.OpenAPI\CRB.TPM.Auth.OpenAPI.csproj" />
+    <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+    <ProjectReference Include="..\..\Data\Data.Core\CRB.TPM.Data.Core.csproj" />
+    <ProjectReference Include="..\..\Module\Module.Web\CRB.TPM.Module.Web.csproj" />
+    <ProjectReference Include="..\..\Auth\Auth.Jwt\CRB.TPM.Auth.Jwt.csproj" />
+    <ProjectReference Include="..\..\Cache\Cache.Core\CRB.TPM.Cache.Core.csproj" />
+    <ProjectReference Include="..\..\Cache\Cache.Redis\CRB.TPM.Cache.Redis.csproj" />
+    <ProjectReference Include="..\..\Mapper\Mapper\CRB.TPM.Mapper.csproj" />
+    <ProjectReference Include="..\..\Config\Config.Core\CRB.TPM.Config.Core.csproj" />
+    <ProjectReference Include="..\..\Logging\Logging.Core\CRB.TPM.Logging.Core.csproj" />
+    <ProjectReference Include="..\..\Excel\Excel.Core\CRB.TPM.Excel.Core.csproj" />
+    <ProjectReference Include="..\..\Excel\Providers\Excel.EPPlus\CRB.TPM.Excel.EPPlus.csproj" />
+    <ProjectReference Include="..\..\Validation\Validation.FluentValidation\CRB.TPM.Validation.FluentValidation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog.AspNetCore" Version="6.0.1" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.3.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,169 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1669795989,
+    "data": [
+        {
+            "id": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "name": "河南区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50042760"
+        },
+        {
+            "id": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "name": "总部区域",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50250689"
+        },
+        {
+            "id": "2460F111-C575-40BA-9734-475AABE4A0C9",
+            "name": "董事会办公室",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50286589"
+        },
+        {
+            "id": "2811D0E4-0877-402D-80DF-1D22C74EBD77",
+            "name": "天津区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002284"
+        },
+        {
+            "id": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "name": "安徽区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50000613"
+        },
+        {
+            "id": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "name": "苏沪区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50000615"
+        },
+        {
+            "id": "3F00C094-9188-4236-A691-3132771AB2AF",
+            "name": "总部营运中心",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50250704"
+        },
+        {
+            "id": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "name": "广东区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50001963"
+        },
+        {
+            "id": "6051F85E-37BE-4D86-B9F2-AF17507FDFC2",
+            "name": "湖北区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50001964"
+        },
+        {
+            "id": "6812DBE0-07EF-455E-BBA0-B6252B7ECC16",
+            "name": "全国价格检查专项虚拟组织",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50234168"
+        },
+        {
+            "id": "69A64BC7-3538-4FED-AD5F-539E7F99191F",
+            "name": "江西区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002320"
+        },
+        {
+            "id": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "name": "四川区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002082"
+        },
+        {
+            "id": "73A29FD8-BF76-4A79-9F36-62A47F5EDDE2",
+            "name": "黑吉区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002062"
+        },
+        {
+            "id": "781D56EB-A2DC-4375-AAA5-D8C2D7DED5B9",
+            "name": "晋陕区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002353"
+        },
+        {
+            "id": "79BB2569-18A6-48C7-88B3-987200FE19F2",
+            "name": "辽宁区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002184"
+        },
+        {
+            "id": "8DFE433E-8B1F-4CFE-84AD-B733C722D4DE",
+            "name": "甘青藏区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002223"
+        },
+        {
+            "id": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "name": "浙江区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50000614"
+        },
+        {
+            "id": "A8D40B4E-22F5-4FB6-BC13-E21313FBD6E1",
+            "name": "喜力生产工厂",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50258281"
+        },
+        {
+            "id": "C51EA658-AE63-480B-AD80-3AE29E07E094",
+            "name": "云南区域公司(旧)",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002163"
+        },
+        {
+            "id": "DD657062-4B04-41B2-837A-762809D2B3DE",
+            "name": "山东区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002138"
+        },
+        {
+            "id": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "name": "福建区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50202985"
+        },
+        {
+            "id": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "name": "北京区域公司",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50002429"
+        },
+        {
+            "id": "FE37FAC8-0A8F-4B59-B866-D98E2E7602E5",
+            "name": "景芝白酒",
+            "parentId": "F7596215-773E-4C6F-A10C-2899C294BD61",
+            "type": 20,
+            "orgCode": "50284047"
+        }
+    ]
+}

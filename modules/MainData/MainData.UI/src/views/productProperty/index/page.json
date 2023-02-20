@@ -1,0 +1,39 @@
+{
+    "name": "maindata_product_property",
+    "icon": "captcha",
+    "path": "/maindata/product_property",
+    "permissions": [
+        "maindata_product_property_query_get"
+    ],
+    "buttons": {
+        "add": {
+            "text": "tpm.add",
+            "code": "maindata_product_property_add",
+            "permissions": [
+                "maindata_product_property_add_post"
+            ]
+        },
+        "export": {
+            "text": "导出",
+            "code": "maindata_product_property_export",
+            "permissions": [
+                "maindata_product_property_export_post"
+            ]
+        },
+        "edit": {
+            "text": "tpm.edit",
+            "code": "maindata_product_property_edit",
+            "permissions": [
+                "maindata_product_property_edit_get",
+                "maindata_product_property_update_post"
+            ]
+        },
+        "remove": {
+            "text": "tpm.delete",
+            "code": "maindata_product_property_delete",
+            "permissions": [
+                "maindata_product_property_delete_delete"
+            ]
+        }
+    }
+}

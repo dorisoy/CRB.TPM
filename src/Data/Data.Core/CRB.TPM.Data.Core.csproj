@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Description>CRB.TPM数据访问核心实现库</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Data.Abstractions\CRB.TPM.Data.Abstractions.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Include="..\Data.Abstractions\Internal\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Castle.Core" Version="5.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.1" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.1" />
+	</ItemGroup>
+
+</Project>

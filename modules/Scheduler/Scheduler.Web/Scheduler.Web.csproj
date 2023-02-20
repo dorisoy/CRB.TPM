@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="_modules\6224_Scheduler\_initData.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Module\Module.Web\CRB.TPM.Module.Web.csproj" />
+    <ProjectReference Include="..\..\..\src\Validation\Validation.FluentValidation\CRB.TPM.Validation.FluentValidation.csproj" />
+    <ProjectReference Include="..\Scheduler.Core\Scheduler.Core.csproj" />
+
+  </ItemGroup>
+
+  <Import Project="..\..\module.build.targets" />
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+  </ItemGroup>
+
+</Project>

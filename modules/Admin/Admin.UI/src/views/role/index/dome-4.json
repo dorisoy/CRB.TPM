@@ -1,0 +1,4348 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1669796029,
+    "data": [
+        {
+            "id": "0035F960-EE30-4A5E-9B87-4ED6EDA2B271",
+            "name": "中珠销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50211746"
+        },
+        {
+            "id": "008E6EE8-065F-4377-8915-51227AEA6674",
+            "name": "渝夜场销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038103"
+        },
+        {
+            "id": "00FA3706-70FB-4FB5-BA96-7BFCD49E3237",
+            "name": "贵州营销人力资源部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50238947"
+        },
+        {
+            "id": "012A7354-98EF-4E21-95A3-59E44386F03D",
+            "name": "广西现代零售销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50235384"
+        },
+        {
+            "id": "03EFBF39-3527-4E64-B312-A1F376D4CC00",
+            "name": "审计部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239904"
+        },
+        {
+            "id": "04CB7E8E-3F7D-4E76-9173-11F0E39A0785",
+            "name": "(停用)营销中心职能部门",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50262302"
+        },
+        {
+            "id": "04DAFCC4-60E4-42D7-B26C-8744D2A6AA9A",
+            "name": "贵州夜场销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50002490"
+        },
+        {
+            "id": "04E55319-105B-4637-A4E5-842CB0C7BBE1",
+            "name": "吉林高端餐饮销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50237224"
+        },
+        {
+            "id": "0529F3A1-FB7C-42C2-A077-2C3AF581B670",
+            "name": "审计办公室",
+            "parentId": "95435671-3C8E-46AB-8DD5-CC1CB9D23E2C",
+            "type": 40,
+            "orgCode": "50239227"
+        },
+        {
+            "id": "0582A6A1-E1D9-404C-8CE0-53E4357E2B25",
+            "name": "现代零售大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50234565"
+        },
+        {
+            "id": "059D671F-F931-41BB-8C3D-5EB154A10066",
+            "name": "山西夜场销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50211078"
+        },
+        {
+            "id": "05A6461A-9A87-46EE-B4F0-B26D3337B3C7",
+            "name": "湖北营销中心人力资源部",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50216672"
+        },
+        {
+            "id": "05B0D44E-579C-4732-BB8E-7B264DAB2A8B",
+            "name": "江苏营销中心本部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001175"
+        },
+        {
+            "id": "05C3F252-47FB-4348-90AB-84BBC7CC437F",
+            "name": "信阳销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50282212"
+        },
+        {
+            "id": "060F01AA-BD8F-46CA-9818-86E7E9BB5200",
+            "name": "辽阳销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50008167"
+        },
+        {
+            "id": "0613FFC7-8A63-4DDF-BFA7-F20A6E10A4A1",
+            "name": "销售人力资源部（江西）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239679"
+        },
+        {
+            "id": "062500FF-8914-4735-8452-D39449F78F94",
+            "name": "市场部",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50154860"
+        },
+        {
+            "id": "067E5EED-8057-4209-B1C7-06CB5770B74A",
+            "name": "市场服务平台",
+            "parentId": "31EF94ED-B674-4E8A-8D41-9F7A667F20E9",
+            "type": 40,
+            "orgCode": "50269483"
+        },
+        {
+            "id": "0685EB79-D3FD-41A2-B35F-3110CFC6A0C0",
+            "name": "芜湖销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019729"
+        },
+        {
+            "id": "06C8268E-5C7D-4449-8696-80080E7F903D",
+            "name": "渭南销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185653"
+        },
+        {
+            "id": "06E33143-80C4-4AEF-AF28-521DBC752523",
+            "name": "南京销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50000947"
+        },
+        {
+            "id": "078B5435-044C-4D3B-AB9B-33010AA12D3D",
+            "name": "销售财务部（福建营销）",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50211151"
+        },
+        {
+            "id": "095AB374-B9F2-4111-8E8C-57AF885FBABC",
+            "name": "贵阳销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50002488"
+        },
+        {
+            "id": "0969BA7B-8A6E-4A0D-93D1-BC91F5D243A0",
+            "name": "广西销售管理部",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50238935"
+        },
+        {
+            "id": "097414FC-028F-4691-8BF9-0B85B7E0C8D4",
+            "name": "销售管理部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50214310"
+        },
+        {
+            "id": "09EEEB1B-0009-4A53-9C29-B9028ED8BFBC",
+            "name": "哈尔滨销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011221"
+        },
+        {
+            "id": "0A47182A-4D6E-4D8A-892F-0E374534223A",
+            "name": "销售管理部",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50240112"
+        },
+        {
+            "id": "0A6F21D5-4E15-414F-A0F3-B7727CF5D926",
+            "name": "太原销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50184992"
+        },
+        {
+            "id": "0A92A82A-6579-460E-BF75-6B3513237439",
+            "name": "苏州周边销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001137"
+        },
+        {
+            "id": "0AAFD0F8-1929-4669-A7A8-E26F06392C3F",
+            "name": "清远销售大区（废）",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50211744"
+        },
+        {
+            "id": "0AEF4475-AE1D-48CE-9BCC-FB4CA3B682C6",
+            "name": "地理销管部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239874"
+        },
+        {
+            "id": "0B0F4153-E3C7-442B-A395-DC37BDF7040E",
+            "name": "虚拟上海市区夜场大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50254002"
+        },
+        {
+            "id": "0BA0470A-C32E-454F-90E8-2398E14D8415",
+            "name": "销售管理部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50228499"
+        },
+        {
+            "id": "0BBCB1B1-077D-4F37-B282-8D84B55FA54B",
+            "name": "广西销售营运部",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50241432"
+        },
+        {
+            "id": "0BBED1F5-9A8C-4441-962A-DC851424B00B",
+            "name": "内退人员部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50245001"
+        },
+        {
+            "id": "0BF96DD4-22FD-4DEF-90AA-A075D6EBA1B6",
+            "name": "喀什销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50247746"
+        },
+        {
+            "id": "0D3879E8-EEBA-4270-A841-6DF4F35CDFD9",
+            "name": "现代零售销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50302696"
+        },
+        {
+            "id": "0D47A3DF-1AA2-438D-A3BC-0BF4F481C496",
+            "name": "现代渠道大区（停用）",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005488"
+        },
+        {
+            "id": "0DD45ED7-BD2C-422E-B7F3-E8BC7F935A56",
+            "name": "市场部",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50238849"
+        },
+        {
+            "id": "0E506785-5D35-4223-B2E4-C0E75E569C03",
+            "name": "鞍山销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007021"
+        },
+        {
+            "id": "0E83E9E4-C66A-4737-8A94-B4CB79397CA4",
+            "name": "虚拟销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50043705"
+        },
+        {
+            "id": "0F0861B4-D9B9-46A5-875F-5C8E1CE8F4F3",
+            "name": "三平大区（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50202991"
+        },
+        {
+            "id": "0F4C5E86-ED94-4020-975F-E91082E5E146",
+            "name": "日喀则销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184604"
+        },
+        {
+            "id": "0F4EEEA7-3957-4A02-AF82-87641FE1D82D",
+            "name": "现代零售销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50002229"
+        },
+        {
+            "id": "0F78FCCE-9AFC-41CA-9373-A8B45C0748AD",
+            "name": "济南周边销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50039762"
+        },
+        {
+            "id": "0FD39A36-4381-478F-94D9-5492FA96E4E4",
+            "name": "秦唐销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50005846"
+        },
+        {
+            "id": "10FCA086-7446-44F3-93EB-FA8AAFF16073",
+            "name": "郑州市销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50048670"
+        },
+        {
+            "id": "111FD617-B4EE-4F08-867B-66D61531C452",
+            "name": "延边销售大区（废）",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50008382"
+        },
+        {
+            "id": "1144763F-A3E3-4CAD-9193-5E455860531A",
+            "name": "泰州销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001147"
+        },
+        {
+            "id": "13518436-03B4-422C-8D77-5FD055FBFBE9",
+            "name": "缺省销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50030412"
+        },
+        {
+            "id": "13B458E9-E10C-4CB9-A16E-6C8137477F56",
+            "name": "营销中心专业部",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50237646"
+        },
+        {
+            "id": "1478230D-49B7-42BF-AD74-E50FDC8C5AC5",
+            "name": "夜场江苏销售大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001184"
+        },
+        {
+            "id": "14AF72A3-F452-4439-8C30-C3289631D462",
+            "name": "湖北营销中心销售管理部",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50216604"
+        },
+        {
+            "id": "157FCCC7-F03A-4196-BD68-4DAD7BA9690F",
+            "name": "铁岭销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50009457"
+        },
+        {
+            "id": "1647C2C3-4876-478E-B9BD-9041487F0C37",
+            "name": "区域公司营运部",
+            "parentId": "C129E158-2252-4634-AB85-4C5F5B65BF15",
+            "type": 40,
+            "orgCode": "50263133"
+        },
+        {
+            "id": "165C426E-B625-4153-A519-D466D50ADBF9",
+            "name": "全国价格检查专项虚拟组大区",
+            "parentId": "413FF0B4-5A89-403B-BFF1-E27C3225EB1F",
+            "type": 40,
+            "orgCode": "50234171"
+        },
+        {
+            "id": "166D8E91-2E5B-4DFA-9FF9-7523270932BB",
+            "name": "武威销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184284"
+        },
+        {
+            "id": "16914956-26E8-4B04-9595-3FA5BACBDE3C",
+            "name": "佳鹤销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011226"
+        },
+        {
+            "id": "16FD1259-79BB-4E29-96DF-9E04AD191293",
+            "name": "人力资源部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50228505"
+        },
+        {
+            "id": "16FF9BB8-20DC-46D7-AD5D-FC592E05F61D",
+            "name": "辽源销售大区（废）",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50041661"
+        },
+        {
+            "id": "178A2E65-CF6E-46F4-8711-6506D96ED8A2",
+            "name": "行政管理部",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50311297"
+        },
+        {
+            "id": "17FA630B-8A56-42A6-9BB2-B204199D0772",
+            "name": "销售管理部（福州营销）（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50233639"
+        },
+        {
+            "id": "183F23C4-8137-4852-9576-654E1D19137B",
+            "name": "中国品牌部",
+            "parentId": "8CEF49B8-416C-4027-A66D-C74FD7908688",
+            "type": 40,
+            "orgCode": "50268005"
+        },
+        {
+            "id": "18CBBD1D-4D32-42AA-991C-54A16736C97D",
+            "name": "高端财务部",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239871"
+        },
+        {
+            "id": "18F158A7-DC6A-419C-BFEA-755749FF9EF0",
+            "name": "作废市东销售大区",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50001389"
+        },
+        {
+            "id": "193244A3-017B-44DC-8E72-1EF22A9D1A8B",
+            "name": "福州大区（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50034709"
+        },
+        {
+            "id": "197C4876-1C22-40CC-8812-15EA20BABB29",
+            "name": "桶啤服务部(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50238852"
+        },
+        {
+            "id": "1A3B4569-2881-4173-8040-C670327349B1",
+            "name": "贵州现代零售销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50235335"
+        },
+        {
+            "id": "1A3FB285-4A5C-49ED-A1A0-C3C8A34EF03F",
+            "name": "喜力销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50185593"
+        },
+        {
+            "id": "1ADBA11E-322D-4DF6-B19D-6D2702258F4B",
+            "name": "朝内餐饮销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50002485"
+        },
+        {
+            "id": "1B77D9EF-4024-4A8C-AA10-5359C7A11401",
+            "name": "销售财务部",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240038"
+        },
+        {
+            "id": "1CBB816D-6A2E-4B01-AA57-0B097859FDB5",
+            "name": "西普销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238786"
+        },
+        {
+            "id": "1D49B785-7817-4D8D-B1B1-4A861A20522B",
+            "name": "石家庄销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005825"
+        },
+        {
+            "id": "1D705A18-E8C9-4F4E-AB3F-C899B446F8D8",
+            "name": "成品库",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50237735"
+        },
+        {
+            "id": "1DFC902B-80A4-4FEA-866F-9168BC09A604",
+            "name": "洛阳销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155147"
+        },
+        {
+            "id": "1E1E04F5-9A1E-4964-AD24-20A29066F34B",
+            "name": "渝中销售大区(废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50026286"
+        },
+        {
+            "id": "1E6521E5-7574-47DF-B43C-DA8F2E227BE0",
+            "name": "大连周边销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007000"
+        },
+        {
+            "id": "1FB90AC2-9903-492F-A04A-7C473155A176",
+            "name": "呼和浩特销售大区",
+            "parentId": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "type": 40,
+            "orgCode": "50183157"
+        },
+        {
+            "id": "20733ACA-F220-45D1-BEF4-1637A738B302",
+            "name": "销售财务部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50228504"
+        },
+        {
+            "id": "20C88FC0-F2ED-4C1A-AF8B-E741B61D110F",
+            "name": "营销中心人力资源部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50207244"
+        },
+        {
+            "id": "20EFEA27-6F98-4CE4-97C7-971A6F414344",
+            "name": "销售管理部",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50228026"
+        },
+        {
+            "id": "2112DFD3-1F77-4CCD-B043-8056C1FB1DF9",
+            "name": "海南营销营运部",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50240439"
+        },
+        {
+            "id": "212CA56A-A797-435B-9DB1-09C9E92C6DDA",
+            "name": "广州营销市场部",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50214523"
+        },
+        {
+            "id": "21534FC0-E899-4E96-ABB0-91137EAAE2CB",
+            "name": "赣南销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50041926"
+        },
+        {
+            "id": "216AB009-3C45-4A4B-B012-D7F58650A52B",
+            "name": "许昌销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155143"
+        },
+        {
+            "id": "2170F885-A9D1-4D2B-B244-34DF72312E54",
+            "name": "吉林现代零售销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50002066"
+        },
+        {
+            "id": "240BBBBB-7DA6-48AE-8D2D-B9503CFD7D86",
+            "name": "成都主城销售大区（废）",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013329"
+        },
+        {
+            "id": "24D85996-0A7D-46AD-910F-15ABC314D830",
+            "name": "虚拟酒吧大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50255213"
+        },
+        {
+            "id": "24FBA45C-2E12-4BC8-B339-90B03EFED7A7",
+            "name": "国航",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50240485"
+        },
+        {
+            "id": "25854459-FA7A-4BDE-B116-AB4249FC27DF",
+            "name": "晋北销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50215483"
+        },
+        {
+            "id": "2598DC2A-8E03-4F4C-8CE7-6DF711A7B704",
+            "name": "营销中心市场部",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50259605"
+        },
+        {
+            "id": "25C397BB-8742-474A-9B5F-25DB15149ED8",
+            "name": "高端销售管理部(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50238848"
+        },
+        {
+            "id": "25CDC28C-4958-475C-B9C5-9ED28EC36DBC",
+            "name": "湖南营销中心营运部",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50246525"
+        },
+        {
+            "id": "25DCD7A4-1633-4387-A851-5904726AD59E",
+            "name": "运营管理部",
+            "parentId": "A48645C6-76F4-47F4-B408-38908E7EB8EC",
+            "type": 40,
+            "orgCode": "50271416"
+        },
+        {
+            "id": "279BC1CC-A478-4F9A-B75D-96060F0EC2A5",
+            "name": "市场部（江西）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239681"
+        },
+        {
+            "id": "27C436A5-C2BE-4316-BE6C-3087EB2037CF",
+            "name": "夜场销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50002142"
+        },
+        {
+            "id": "27F8ECCB-65BC-4B8B-BBAF-E2027615BE5B",
+            "name": "销售财务部",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50239689"
+        },
+        {
+            "id": "283D03AE-2EC0-46A2-8EDC-EF03F6BC455D",
+            "name": "娄底销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005486"
+        },
+        {
+            "id": "28902806-BB83-41C4-B522-BE5FC3474F5D",
+            "name": "镇江销售大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001200"
+        },
+        {
+            "id": "28D968C8-4DD4-4025-B145-3459A2FAACDA",
+            "name": "江苏夜场销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50311030"
+        },
+        {
+            "id": "29A596DC-D6DE-4DCB-BF06-8F62FAB8C38A",
+            "name": "营销中心财务部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50207248"
+        },
+        {
+            "id": "29A62BA3-6603-4210-9248-5EE7D96E70CF",
+            "name": "柳州销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201428"
+        },
+        {
+            "id": "2A251900-BB3C-405A-AFFF-37AAD70A79F8",
+            "name": "法律部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50263722"
+        },
+        {
+            "id": "2AB71535-07C1-447D-8A53-A3E997B8F8F5",
+            "name": "数字化运营部",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284677"
+        },
+        {
+            "id": "2AF2F420-0669-4EB9-B877-3ED1FDADEE4C",
+            "name": "镇扬销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50048616"
+        },
+        {
+            "id": "2B92E2F7-8A19-4DD0-B681-3C4B9A94D4B1",
+            "name": "行政部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239911"
+        },
+        {
+            "id": "2C015891-B90F-49F0-857B-4E98EBC9E574",
+            "name": "锦葫销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007771"
+        },
+        {
+            "id": "2CC54027-8703-43D9-BA92-532AE0C9E993",
+            "name": "市场部",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50216385"
+        },
+        {
+            "id": "2CC7DCDF-6C88-4C3F-857C-64C55971426E",
+            "name": "安濮销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155146"
+        },
+        {
+            "id": "2D3802FF-67B3-4A89-A90D-1B56F86F8642",
+            "name": "昭曲销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238785"
+        },
+        {
+            "id": "2E0644B4-91D2-41BC-B923-10C442F9714C",
+            "name": "蒙中销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50006991"
+        },
+        {
+            "id": "2E0F9E46-D7F9-42C3-A9BA-29F49CBE9C20",
+            "name": "中心非现饮销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50181234"
+        },
+        {
+            "id": "2E3BC354-19E6-488E-8D68-683C44814A72",
+            "name": "销售财务部",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50311295"
+        },
+        {
+            "id": "2E53B193-5E37-45A3-93A0-1C1521BDF94A",
+            "name": "南昌大区（作废）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50195139"
+        },
+        {
+            "id": "2E6127C0-A7FC-47E1-BB03-CA20C70FAA6F",
+            "name": "营销中心人力资源部",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50222503"
+        },
+        {
+            "id": "2E6175DF-0ED0-4A68-9A62-26B636DF919D",
+            "name": "餐饮销售大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001208"
+        },
+        {
+            "id": "2E91BF90-65CD-417B-A95B-CEB6BF227F6F",
+            "name": "销售管理",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50269126"
+        },
+        {
+            "id": "2EAC730B-27C7-4C74-8FA7-65833C39A0D1",
+            "name": "沈阳高端销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50211762"
+        },
+        {
+            "id": "2FCB5163-EBF4-4912-A5BF-92F321D7D174",
+            "name": "呼伦贝尔销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011230"
+        },
+        {
+            "id": "2FCE4B03-F04C-48DE-B9F0-9465BB602A8B",
+            "name": "临汾销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50283160"
+        },
+        {
+            "id": "30A30BF1-BDB8-4ABD-8244-690C80D6B0E6",
+            "name": "现代零售销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50241337"
+        },
+        {
+            "id": "3268A735-8663-43A8-9572-E1B164D31F5A",
+            "name": "宿迁销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019738"
+        },
+        {
+            "id": "327D8F13-0D54-40C5-B7E6-25BEA337ED18",
+            "name": "南通销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001112"
+        },
+        {
+            "id": "32BBFD18-5BA0-405C-94D4-D8519D087CAC",
+            "name": "湖北缺省大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005720"
+        },
+        {
+            "id": "32E13AED-4F26-4669-86AB-ED0B2BEBCA6B",
+            "name": "南阳销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50282213"
+        },
+        {
+            "id": "3303C240-0A9B-4BFA-904F-91EA9EAD5B22",
+            "name": "重庆市场部",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50159857"
+        },
+        {
+            "id": "335B1029-3447-40EE-A89F-00B9A6008B2F",
+            "name": "温州销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001734"
+        },
+        {
+            "id": "34440435-0107-4121-95FB-9DB557A146AB",
+            "name": "EHS部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263719"
+        },
+        {
+            "id": "34AA43E1-17AD-4FAD-A36E-07A5D81791B0",
+            "name": "智能信息化部",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284679"
+        },
+        {
+            "id": "35148C5E-6C36-46DC-BD9E-08B62BBF3CA3",
+            "name": "丽江销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005889"
+        },
+        {
+            "id": "35190A0C-89D6-4F97-AED4-774744C56792",
+            "name": "盐城销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001165"
+        },
+        {
+            "id": "351EA9C3-879B-4193-B71C-EA562F25B326",
+            "name": "智信办公室",
+            "parentId": "95435671-3C8E-46AB-8DD5-CC1CB9D23E2C",
+            "type": 40,
+            "orgCode": "50239228"
+        },
+        {
+            "id": "353CB006-4483-407F-8D53-22E14D97F19F",
+            "name": "遂宁销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013334"
+        },
+        {
+            "id": "3540ED64-4803-4D71-AEAF-576DC1F5B488",
+            "name": "贵州销售管理部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50166678"
+        },
+        {
+            "id": "356E5E7C-FEE4-41D0-B813-C9FDC90FB322",
+            "name": "海南营销市场部",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50214782"
+        },
+        {
+            "id": "3586F24D-0C99-4804-BDFD-89FA196306A3",
+            "name": "人力资源部",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50218136"
+        },
+        {
+            "id": "359AD91D-05DF-4EEE-82A1-E7BB592E29AF",
+            "name": "营销中心销售管理部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50207249"
+        },
+        {
+            "id": "35C40438-D7AC-4D09-81CC-9D522444DF99",
+            "name": "业务市场部",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50260022"
+        },
+        {
+            "id": "35C7DD16-D008-41B0-9BEF-7CBFED20DCEF",
+            "name": "销售财务部（江西）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239707"
+        },
+        {
+            "id": "35CABAD1-81BD-4584-9E24-03E6B225DEB7",
+            "name": "拉萨销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184603"
+        },
+        {
+            "id": "35EACD44-12C7-445C-BEE0-E9C609BE1182",
+            "name": "夜场销售大区(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50228047"
+        },
+        {
+            "id": "3642D385-1E80-4960-8D61-6E90488BF380",
+            "name": "深圳营销营运部",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50240937"
+        },
+        {
+            "id": "36BF4529-5F06-47FD-BCE5-7BB98186CAE6",
+            "name": "高端餐饮销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50041999"
+        },
+        {
+            "id": "36EB8971-5030-45AE-AF10-37EF1C249161",
+            "name": "南宁销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50194398"
+        },
+        {
+            "id": "371A2D6C-1AF3-4A00-9A8C-9532BCFE5B97",
+            "name": "合肥非现饮大区（作废）",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50001652"
+        },
+        {
+            "id": "377D6705-8039-4CFA-99C1-78DA7ED51452",
+            "name": "永川销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038131"
+        },
+        {
+            "id": "37A0795D-8069-4AF2-B6E2-3BCFE602BBA5",
+            "name": "天津营销其他大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50228902"
+        },
+        {
+            "id": "37D99DC9-6250-4CEF-B001-32D63600D560",
+            "name": "地理市场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239886"
+        },
+        {
+            "id": "3971B714-309D-4583-A595-B28007722D98",
+            "name": "常州销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50000906"
+        },
+        {
+            "id": "39B282A6-B7EB-47C0-A2C2-31C6A7E61F28",
+            "name": "达州销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013330"
+        },
+        {
+            "id": "3A2BAE71-8C4F-41CF-8B5A-95704D4DD147",
+            "name": "KA销售大区（作废）",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50000664"
+        },
+        {
+            "id": "3BC6A9E2-E0D2-4E2F-AE48-6CF05E78444F",
+            "name": "潍坊销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005791"
+        },
+        {
+            "id": "3C6C8644-E069-471C-97AD-DC5DB6F87B17",
+            "name": "金丽销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001740"
+        },
+        {
+            "id": "3C9D1FAD-AB2F-451C-93E6-E7B674557F34",
+            "name": "销售财务部（福州营销）（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50233620"
+        },
+        {
+            "id": "3CA2F29A-1106-41CB-AF81-BDC6A9214E29",
+            "name": "毕节销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50036191"
+        },
+        {
+            "id": "3CC5BF40-064E-4A15-A742-A1162513B3B9",
+            "name": "广西夜场销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201454"
+        },
+        {
+            "id": "3CF47F50-3524-43D5-B089-E6034602434C",
+            "name": "高端销管部",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239877"
+        },
+        {
+            "id": "3D5016FF-6C12-4E4D-9527-DBB12B91D29F",
+            "name": "铜仁销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50039060"
+        },
+        {
+            "id": "3E846357-85BC-4F43-AC62-613856192562",
+            "name": "嘉湖销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001743"
+        },
+        {
+            "id": "3FCBA09C-2618-4014-856C-0A0A2F97FFC7",
+            "name": "惠河销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50307673"
+        },
+        {
+            "id": "400C452E-3485-4E55-9303-E54ED3157B6F",
+            "name": "创新销售渠道",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268765"
+        },
+        {
+            "id": "402540AB-7FC2-4822-A657-0B38A3058861",
+            "name": "兰州外围销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184279"
+        },
+        {
+            "id": "402B6C61-940F-4D19-B128-7E0ED1AF4B12",
+            "name": "夜场销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185488"
+        },
+        {
+            "id": "40C0313C-BA7F-4D8A-98C0-F94886695D95",
+            "name": "成都销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50278208"
+        },
+        {
+            "id": "40CCA934-B6B8-42A3-8612-F34744ED1B53",
+            "name": "徐州销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50203619"
+        },
+        {
+            "id": "41679ED1-0416-42CE-BE88-0123E46B77D5",
+            "name": "市区销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50234444"
+        },
+        {
+            "id": "41D87A8C-A667-4B3A-8379-B48BC4095417",
+            "name": "岳阳销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005492"
+        },
+        {
+            "id": "42626E7B-3583-4A3B-AC3C-FDD92571E543",
+            "name": "自有成品库",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50217233"
+        },
+        {
+            "id": "426BBC8F-F925-426C-B03F-0A8BA948B891",
+            "name": "湖北零售销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50238472"
+        },
+        {
+            "id": "4288BDAD-0830-408D-BAF4-B0DE4E3E6855",
+            "name": "福州大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50300126"
+        },
+        {
+            "id": "43049A11-F129-4CBE-8322-03D6CB45AC15",
+            "name": "贵州销售财务部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50048957"
+        },
+        {
+            "id": "43C99976-790A-42C5-8E0D-C3133B14CA99",
+            "name": "保沧销售大区(作废)",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50196550"
+        },
+        {
+            "id": "43D362D1-1B4E-4234-87EA-E71B32A80532",
+            "name": "EHS办公室",
+            "parentId": "95435671-3C8E-46AB-8DD5-CC1CB9D23E2C",
+            "type": 40,
+            "orgCode": "50239229"
+        },
+        {
+            "id": "4444AE43-1E75-438C-92F5-6B6190A1F957",
+            "name": "儋州销售大区",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50155766"
+        },
+        {
+            "id": "44BFE548-6F31-4446-9443-8867E5F91CD0",
+            "name": "盘锦销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007215"
+        },
+        {
+            "id": "4511B711-DFFD-4836-B807-5DEAE7EC83D3",
+            "name": "市场部",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50155412"
+        },
+        {
+            "id": "45954519-54B2-499D-BDCF-0FA921B95523",
+            "name": "嘉宝销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50001578"
+        },
+        {
+            "id": "4598514E-9518-445C-803D-9EDF060EF5B1",
+            "name": "夜场销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005490"
+        },
+        {
+            "id": "45A3E0F8-0DDF-4AAB-A909-143C5597997A",
+            "name": "销售管理部（江西）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239680"
+        },
+        {
+            "id": "4681763C-DC4E-41AE-85D6-BAAEECCF997D",
+            "name": "精酿部",
+            "parentId": "A48645C6-76F4-47F4-B408-38908E7EB8EC",
+            "type": 40,
+            "orgCode": "50280213"
+        },
+        {
+            "id": "46B8983E-1EAF-4A03-A5C7-46B6DE0C1CEA",
+            "name": "丽江销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238756"
+        },
+        {
+            "id": "47CAC4CE-2713-4C3F-BF3A-A169D7AA842B",
+            "name": "新鹤销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155144"
+        },
+        {
+            "id": "4840C046-C668-4524-B71F-2F0DFE8F0A42",
+            "name": "高端餐饮销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185712"
+        },
+        {
+            "id": "489FA099-F159-4B84-B0B0-2EF0E624D7E5",
+            "name": "西普销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50032436"
+        },
+        {
+            "id": "48CF7A6C-BD9F-499D-BEB0-422F63CC0369",
+            "name": "广州营销营运部",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50240445"
+        },
+        {
+            "id": "48D97B7C-680D-4CBC-9F19-CC097FFE80B1",
+            "name": "河北现代零售销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005854"
+        },
+        {
+            "id": "4A4E6E30-4DFD-4CB3-8EE2-CC27BE7391BC",
+            "name": "销售财务部",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50217055"
+        },
+        {
+            "id": "4B21A5B0-1711-4B31-92B3-3B55FC48AE9D",
+            "name": "赣西北销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50038006"
+        },
+        {
+            "id": "4BB47706-6298-41E0-9208-4840F1D7E11F",
+            "name": "白酒销售公司财务部",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50285276"
+        },
+        {
+            "id": "4BFA5500-A5D2-4CF6-A163-8B979435C4BC",
+            "name": "高端餐饮销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50238563"
+        },
+        {
+            "id": "4BFAC303-CC96-4F80-8F50-F4F7500F3F15",
+            "name": "都匀销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50035846"
+        },
+        {
+            "id": "4C1F57DB-B6E2-43B8-850B-257860661899",
+            "name": "行政管理部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50313403"
+        },
+        {
+            "id": "4DB79121-2569-4C37-8E9B-FBD7D0CD59E6",
+            "name": "自有成品库（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50233622"
+        },
+        {
+            "id": "4DEA3D5B-61D5-40D8-B3ED-CFE7428BF0A8",
+            "name": "黑龙江夜场销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011233"
+        },
+        {
+            "id": "4F6461BC-3884-48D8-9267-5D321933F7B6",
+            "name": "威海大区（作废）",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005788"
+        },
+        {
+            "id": "501F3EAC-2CA0-4BA7-8FA4-F175E1D242EE",
+            "name": "湛茂销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50211745"
+        },
+        {
+            "id": "5117D080-56E3-4A8B-B0BC-5DAF22B550C8",
+            "name": "上海市东夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50222394"
+        },
+        {
+            "id": "511C92A6-7CD0-4D36-A2B4-8875B5A243CB",
+            "name": "东莞周边销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50006032"
+        },
+        {
+            "id": "5135357F-3DB7-4EC5-8087-00B6E0126563",
+            "name": "销售财务部",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50240111"
+        },
+        {
+            "id": "513AF410-7FE5-4CB8-9F86-837985F4E2FD",
+            "name": "夜场销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50000669"
+        },
+        {
+            "id": "51EBFA43-4CD1-45A7-94C5-13040EEBD5C0",
+            "name": "龙岩大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50300129"
+        },
+        {
+            "id": "53596F13-6825-49E9-8804-39F5F6EB49EA",
+            "name": "销售高层（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239895"
+        },
+        {
+            "id": "53881ED2-974D-46E8-819B-5D74807A82C0",
+            "name": "电商销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50241409"
+        },
+        {
+            "id": "53AC3B6E-3836-478F-B73E-EAE097561E11",
+            "name": "虚拟上海市东夜场大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50253996"
+        },
+        {
+            "id": "53E9A659-3630-4705-B640-FD34D0BACD41",
+            "name": "江北销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038089"
+        },
+        {
+            "id": "5411BE98-D423-4282-B993-07D7E365B369",
+            "name": "山西现代零售销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50211115"
+        },
+        {
+            "id": "541AAB77-159E-493E-B2EC-9A135C738F79",
+            "name": "雪花电商",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268761"
+        },
+        {
+            "id": "548DDAFF-3D2A-40D1-86C7-FFA7C345B7C0",
+            "name": "酒泉销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184280"
+        },
+        {
+            "id": "54AD9D05-F03D-402A-B22C-4D0E0A69BD78",
+            "name": "浦东销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50234433"
+        },
+        {
+            "id": "5502CA52-4FB6-4BDA-BD20-1AE6C79D3C5D",
+            "name": "市场部",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240039"
+        },
+        {
+            "id": "5587F29C-1407-414B-B670-9773C1CFAA1B",
+            "name": "兴安白城销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50007179"
+        },
+        {
+            "id": "55A9EB82-3051-4E4E-AB8C-3D472D32C0AD",
+            "name": "伊绥销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011228"
+        },
+        {
+            "id": "565ADC0B-105E-455C-A280-A2FC0F81A052",
+            "name": "广州高端餐饮销售大区（废）",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50209532"
+        },
+        {
+            "id": "57435931-79AC-4C59-9102-D4CD2697DD94",
+            "name": "营运部业务部-营运",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50222542"
+        },
+        {
+            "id": "57EE1946-D066-49C5-A414-E5D29D06108E",
+            "name": "湖南营销中心人力资源",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50216588"
+        },
+        {
+            "id": "58163EA5-B32E-41AA-9407-20DBC4FFFEA1",
+            "name": "海口销售大区",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50040749"
+        },
+        {
+            "id": "58498992-E8B4-4981-9940-E5CF6DE4DED3",
+            "name": "黔江销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038091"
+        },
+        {
+            "id": "58641D39-B103-42A7-8AA6-8FC50F74E6CD",
+            "name": "人力二部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239892"
+        },
+        {
+            "id": "5909205A-8773-4035-93FA-0E6E09F4B0AF",
+            "name": "信南销售大区(作废2021-11-18）",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155142"
+        },
+        {
+            "id": "59543C0B-DA78-4870-B4B2-E36BF2E1511D",
+            "name": "通化白山销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50007161"
+        },
+        {
+            "id": "59C8A972-E552-491D-8DEA-DA3E0BD05D16",
+            "name": "东莞销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50043464"
+        },
+        {
+            "id": "59F82069-72EE-4A3B-9CAA-8BDE1BE45187",
+            "name": "人力资源部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50214312"
+        },
+        {
+            "id": "5A58B774-D920-45C6-88B5-8EBA7BF5E57D",
+            "name": "销售财务部",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50154859"
+        },
+        {
+            "id": "5ADA6FA0-CA47-4AB6-A6E4-0E8007A4C5EB",
+            "name": "台州销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001739"
+        },
+        {
+            "id": "5AE01730-4D67-4148-A62C-35B1A393839D",
+            "name": "喜力销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50186896"
+        },
+        {
+            "id": "5AF66C33-7896-46DD-B741-51EE36913A54",
+            "name": "营销中心市场部",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50257776"
+        },
+        {
+            "id": "5BEC833B-478F-4795-BA6C-33A65095174C",
+            "name": "现代零售销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240969"
+        },
+        {
+            "id": "5BF02650-10F8-4319-AC06-A8EEC5C2CA8B",
+            "name": "桶啤服务部(作废)",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50302699"
+        },
+        {
+            "id": "5D744B7A-66A1-4750-94A4-334EE883DC35",
+            "name": "现代零售销售大区（废）",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50211742"
+        },
+        {
+            "id": "5E26AEC9-28DC-494A-801E-F3F70EEEB641",
+            "name": "夜场销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50032374"
+        },
+        {
+            "id": "5F2FEC1F-1D85-4810-9939-91D03928D15F",
+            "name": "泉州大区（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50034711"
+        },
+        {
+            "id": "6043FE2A-570D-47DE-9F85-530DE1789CE4",
+            "name": "销售财务部",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50155411"
+        },
+        {
+            "id": "6078D14F-F56B-431D-8FF5-48673BA93BF2",
+            "name": "德保销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005892"
+        },
+        {
+            "id": "61680775-B421-41CF-99D0-9B7AFAC6509B",
+            "name": "销售财务部",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50213894"
+        },
+        {
+            "id": "62009CFE-DF89-4ED0-8DC0-534854F8407E",
+            "name": "高端事业部东部区域",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284050"
+        },
+        {
+            "id": "62200FF3-6698-42F1-9F46-272A5D4C467E",
+            "name": "上海夜场销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50311029"
+        },
+        {
+            "id": "628A6B96-0D93-4537-A859-078035AADF87",
+            "name": "龙江销售营运部",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50222506"
+        },
+        {
+            "id": "62BBC433-FC60-4555-901E-8D2BCDE0606B",
+            "name": "白城销售大区（废）",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50041662"
+        },
+        {
+            "id": "634B5246-D048-45B6-B1C8-084BFEF3BADD",
+            "name": "销售高层（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263707"
+        },
+        {
+            "id": "63666E06-F742-4602-9EB5-F75B3546DB50",
+            "name": "湖南营销中心销售财务部",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50216596"
+        },
+        {
+            "id": "641698DA-5C45-4FDC-B9F7-02C6C5229DE5",
+            "name": "浙西销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001741"
+        },
+        {
+            "id": "647261E2-E16D-42B7-B001-155AA0CA5A70",
+            "name": "贵港销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201329"
+        },
+        {
+            "id": "6474A5E9-FCA6-48E6-9381-C24F6CB53AE8",
+            "name": "黑龙江营销中心销售管理部",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50207514"
+        },
+        {
+            "id": "64A0E7D3-0C39-458B-B490-2CCCDA42E292",
+            "name": "销售管理部",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240037"
+        },
+        {
+            "id": "64D8E51A-1AB8-4156-A2DE-E7E745F90EA8",
+            "name": "武汉销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50001970"
+        },
+        {
+            "id": "653B1E99-21B3-4BEB-8320-C32D957F6CB7",
+            "name": "咸阳销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185579"
+        },
+        {
+            "id": "655BFB23-D41D-4ACD-A4C7-20A00EDCE0AF",
+            "name": "丹东销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50032052"
+        },
+        {
+            "id": "65A22A53-F077-48B1-89F6-F864A0DCAB41",
+            "name": "宁德大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50300127"
+        },
+        {
+            "id": "664EAD2C-59DF-4A75-BEE9-FA8D7E799845",
+            "name": "区域外公司",
+            "parentId": "BE11E53D-4CAE-46D1-856C-CA5618F47B26",
+            "type": 40,
+            "orgCode": "50256586"
+        },
+        {
+            "id": "667729B5-B5A2-4CC7-BD4C-906701CBCC31",
+            "name": "武都销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50280036"
+        },
+        {
+            "id": "66D160FC-DDEA-4B82-9A9D-94647D777126",
+            "name": "津城销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50002287"
+        },
+        {
+            "id": "67252A00-21CD-42E5-BEB3-42057AE9066F",
+            "name": "人力资源部",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50240113"
+        },
+        {
+            "id": "673D351C-1591-4FDD-9A2C-5873539C35F7",
+            "name": "虚拟大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50240673"
+        },
+        {
+            "id": "674A2137-1235-4896-B031-A8C2B639744A",
+            "name": "市场部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50214209"
+        },
+        {
+            "id": "678B4A5F-9D39-4E1C-A9EA-4F61667753E5",
+            "name": "市场部",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50214075"
+        },
+        {
+            "id": "678C96B0-0F82-4F69-A36F-6F936E0AE03D",
+            "name": "深圳营销市场部",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50217053"
+        },
+        {
+            "id": "687A35F7-94AD-43E5-9794-D766D3121168",
+            "name": "现代零售销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185431"
+        },
+        {
+            "id": "68872B26-12F6-4DC3-B769-E19C483055F9",
+            "name": "区域营运部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50246582"
+        },
+        {
+            "id": "693214DF-B851-4F5A-83F8-3442650FC064",
+            "name": "晋中销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50215482"
+        },
+        {
+            "id": "695A7395-959C-4AB5-8A2D-054DE7712F4D",
+            "name": "吉林夜场销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50002067"
+        },
+        {
+            "id": "6A0478AE-6974-4A52-9F2A-2DF57D10A41C",
+            "name": "产品部",
+            "parentId": "7EE98F7C-E2AC-4690-9F54-5B03EFB46B85",
+            "type": 40,
+            "orgCode": "50268006"
+        },
+        {
+            "id": "6ABEFE23-4A0F-4B9D-98F0-7D3E02F26C0F",
+            "name": "预备人员部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50245067"
+        },
+        {
+            "id": "6ADCB548-3555-435A-9750-DC197A450047",
+            "name": "高端餐饮销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50210623"
+        },
+        {
+            "id": "6B99299D-F8E5-437E-B8BC-4BE869437E0E",
+            "name": "白酒销售部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50273972"
+        },
+        {
+            "id": "6BC81282-CEFA-4065-8129-B5958DC8CB21",
+            "name": "生产中心",
+            "parentId": "FC99608D-02BD-4D84-88F0-557CA776561E",
+            "type": 40,
+            "orgCode": "50260029"
+        },
+        {
+            "id": "6C15FD9F-0DB6-48A3-8D57-0E2E96E00C9F",
+            "name": "吉林延边销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50007004"
+        },
+        {
+            "id": "6C54FA49-95FB-412A-B8E6-E71D27213F02",
+            "name": "河池销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201395"
+        },
+        {
+            "id": "6C63F2F9-7CED-44BF-B030-ADC594579661",
+            "name": "现代零售组",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50262946"
+        },
+        {
+            "id": "6C8C69C6-FCF8-4F6F-A93A-CD747BDA2561",
+            "name": "夜场销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50002087"
+        },
+        {
+            "id": "6CAFC0ED-2397-4F70-B132-22B6386C96D3",
+            "name": "市场部（福州营销）（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50233642"
+        },
+        {
+            "id": "6D26E8F8-9869-4F12-AA86-5F66288A648E",
+            "name": "地理财务部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239861"
+        },
+        {
+            "id": "6D2D83BF-9381-47A8-98DB-0318C884B2DB",
+            "name": "销售财务部（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50168255"
+        },
+        {
+            "id": "6D99DF73-5403-43D0-8EA0-BD4474F95599",
+            "name": "作废市南销售大区",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50001405"
+        },
+        {
+            "id": "6DFB488C-3227-4689-86B5-79725A668C20",
+            "name": "湖南营销中心市场部",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50216590"
+        },
+        {
+            "id": "6F1E0B6B-7561-4A3A-9321-0D33712265A4",
+            "name": "白酒销售部",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50300088"
+        },
+        {
+            "id": "6F375BB8-6B93-45CD-B007-C79B8FF7048F",
+            "name": "销售管理部",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50214076"
+        },
+        {
+            "id": "6F67E9A9-3C1F-403F-8DE6-FDC2AC2716F8",
+            "name": "上饶销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50039049"
+        },
+        {
+            "id": "6FD93BEB-4EDD-4217-97D4-43394062FAC6",
+            "name": "西宁销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184599"
+        },
+        {
+            "id": "702ADDA9-8720-4251-A2E1-0933A7690B88",
+            "name": "漳州大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50294207"
+        },
+        {
+            "id": "70700F7C-FA2C-491F-BBBC-6B710FBB7724",
+            "name": "株洲销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50048819"
+        },
+        {
+            "id": "70CE31D3-73E5-487B-922C-2C5CCBF70ADF",
+            "name": "海东销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184600"
+        },
+        {
+            "id": "722C9336-960C-4BC5-842C-FE36B7A8DAA0",
+            "name": "渝东销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50026287"
+        },
+        {
+            "id": "7262E2AC-27D4-4425-AC58-E7505B815633",
+            "name": "南京夜场部（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50222409"
+        },
+        {
+            "id": "73DD4455-2821-48B8-B1F0-7DC456AFE403",
+            "name": "人力资源部",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50311296"
+        },
+        {
+            "id": "73F0B1B6-5942-4DBF-A065-E9E431DF8348",
+            "name": "销售管理部",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50167227"
+        },
+        {
+            "id": "73F376BC-FF5B-4C79-8DE0-D065B49997FD",
+            "name": "成都周边销售大区（废）",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50002086"
+        },
+        {
+            "id": "7487EB95-D08F-4652-A6DD-55993DC390B5",
+            "name": "滁州销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019725"
+        },
+        {
+            "id": "74BF0F57-509E-4BB3-993F-864B5B123061",
+            "name": "贵阳周边销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50235339"
+        },
+        {
+            "id": "75773349-9223-4744-BB4D-918ABE61F8BD",
+            "name": "松原白城销售大区（废）",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50007104"
+        },
+        {
+            "id": "75811311-FFED-4AF5-AEC7-83FD11942560",
+            "name": "闽西大区（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50034713"
+        },
+        {
+            "id": "75D10738-A93C-49B3-AFEF-5B3C5760DA83",
+            "name": "监察部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239924"
+        },
+        {
+            "id": "7756CFAA-1436-4855-B45B-C448FDFE7718",
+            "name": "现代零售销售大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001362"
+        },
+        {
+            "id": "780AC4D5-73F7-4000-A9E5-DC20CFDAA482",
+            "name": "销售财务部",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50228027"
+        },
+        {
+            "id": "780B7F3E-4487-4F18-B147-2FD722D0D6FA",
+            "name": "皖东北销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019734"
+        },
+        {
+            "id": "7896C503-7C65-4751-82F6-D736E6148960",
+            "name": "廊坊销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50035721"
+        },
+        {
+            "id": "78FB53BB-2258-4EBA-9E44-EA034E50EFE1",
+            "name": "高端人力部",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239883"
+        },
+        {
+            "id": "790CF00A-B9E9-4CCC-840B-8C08E92DC3AC",
+            "name": "总经办",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239709"
+        },
+        {
+            "id": "79E14FFE-3197-4703-8C81-98528D493E66",
+            "name": "大众事业部东部区域",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284054"
+        },
+        {
+            "id": "7AB39F08-EA6C-4100-A81F-AAC95BB4326E",
+            "name": "现代零售销售大区（作废）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50001577"
+        },
+        {
+            "id": "7AB3EFCC-535C-4C01-A1CF-F5D304A84931",
+            "name": "审计部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263710"
+        },
+        {
+            "id": "7B07AB1B-6202-4AB5-A829-D2278697410F",
+            "name": "销售市场部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238386"
+        },
+        {
+            "id": "7B656322-DF3D-40FA-907D-3F33B3A430A0",
+            "name": "周驻销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155141"
+        },
+        {
+            "id": "7BCBB4E6-F888-45FC-A176-F81F64503540",
+            "name": "甬郊销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001737"
+        },
+        {
+            "id": "7C255303-AE1B-4AD7-AAED-026AB46F17D0",
+            "name": "营运部",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240379"
+        },
+        {
+            "id": "7CDE8D22-595A-4169-9B37-6C58C67C0AE5",
+            "name": "EHS部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239931"
+        },
+        {
+            "id": "7E2875D3-C338-47EE-AB8C-32522B84B618",
+            "name": "湖南缺省大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005487"
+        },
+        {
+            "id": "7EBC57CA-31AC-4C4E-B78C-5867516EE185",
+            "name": "南疆销售大区(作废)",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184286"
+        },
+        {
+            "id": "7EE66CF0-5610-4552-A103-69A4A87C06A9",
+            "name": "淄莱销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005798"
+        },
+        {
+            "id": "7F112317-FE96-4D43-997A-4A634D7D0776",
+            "name": "郴州销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50048727"
+        },
+        {
+            "id": "7F319611-A3D0-46EF-8C69-6185A152493E",
+            "name": "现代零售销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50244893"
+        },
+        {
+            "id": "7F4D7E38-31C7-4B08-9E30-BE8894736738",
+            "name": "淮安销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50000936"
+        },
+        {
+            "id": "7FD6B4FA-29E3-491F-B454-CEF647B65DD9",
+            "name": "遵义销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50035854"
+        },
+        {
+            "id": "7FF64134-6763-45C4-BD3D-6455EC3AD47B",
+            "name": "虚拟夜场销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50245538"
+        },
+        {
+            "id": "8008924E-A7F3-433C-B87A-F931DFBAFC25",
+            "name": "吉林营销中心销售财务部",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50215755"
+        },
+        {
+            "id": "8063BE0E-9C76-4077-A1B1-AE18E49BE428",
+            "name": "高端餐饮销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50214062"
+        },
+        {
+            "id": "80659C03-39F7-4D55-A09B-44A5F79D5F4C",
+            "name": "KA业务部（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50032435"
+        },
+        {
+            "id": "8090CF5E-307B-4AB3-9FC9-2D05797F147B",
+            "name": "吉林营销中心销售管理部",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50207403"
+        },
+        {
+            "id": "829F0221-390B-418E-9347-D5EA66818AD4",
+            "name": "蒙文销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238783"
+        },
+        {
+            "id": "8320F7AD-B617-4F0F-90D6-C42F0E19408E",
+            "name": "销售管理部",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50217054"
+        },
+        {
+            "id": "83DF4857-A786-47FE-930C-C5C0087AF94B",
+            "name": "长春销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50002065"
+        },
+        {
+            "id": "83FE598A-1372-4578-9ED2-ADA4AC597F2E",
+            "name": "市场部（福建营销）",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50204534"
+        },
+        {
+            "id": "848E6B75-ED2C-436F-975B-CFD12357BD0E",
+            "name": "人力资源部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001182"
+        },
+        {
+            "id": "84C7AAF9-DF9C-4FE1-A482-2898EC4E3A51",
+            "name": "夜场销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50204581"
+        },
+        {
+            "id": "85676A4C-B570-4632-8533-15DD9E3730E1",
+            "name": "高端餐饮销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50245533"
+        },
+        {
+            "id": "859D395B-D155-4ECA-866A-F3C050052A1B",
+            "name": "德阳销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013327"
+        },
+        {
+            "id": "868E2CC9-0BE7-413F-90B8-D3985C633E8C",
+            "name": "广西销售财务部",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50238934"
+        },
+        {
+            "id": "86CB7FAD-3494-4031-A20C-B7373E040CC8",
+            "name": "虚拟南京夜场销售大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50254034"
+        },
+        {
+            "id": "8772AA7A-3CBC-4031-829E-A21C0C3CD537",
+            "name": "南京夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50234533"
+        },
+        {
+            "id": "87A1C7F2-C616-4C4A-8631-42EBF3D863F6",
+            "name": "长期非在岗部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50245065"
+        },
+        {
+            "id": "87CF7D79-066D-4173-935A-4E93316287A6",
+            "name": "销售财务部（作废）",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50260162"
+        },
+        {
+            "id": "88CD6145-1F66-45DB-ABD7-6C026F01A1C8",
+            "name": "作废市东销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50032350"
+        },
+        {
+            "id": "896166D6-4624-4963-B7F5-EFF6EFA2B8CC",
+            "name": "人力资源部",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50240991"
+        },
+        {
+            "id": "89A20A3F-CBD1-4DC7-BC7F-CD0D10432BBB",
+            "name": "夜场KA销售大区",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50040751"
+        },
+        {
+            "id": "89C060CD-6E96-41C6-9955-F911D29E7AED",
+            "name": "高端事业部西部区域",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284053"
+        },
+        {
+            "id": "8A4A5DCE-1A05-4903-818E-D2EB58A9EF82",
+            "name": "生产中心（作废）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50216314"
+        },
+        {
+            "id": "8B0EE6C8-4E20-4BCD-9FA5-486EA6C4935C",
+            "name": "营销中心市场部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50207247"
+        },
+        {
+            "id": "8B12FF08-A53C-4EDA-A0EB-F31FBB1E412A",
+            "name": "临枣销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005794"
+        },
+        {
+            "id": "8BE23C55-89C3-43ED-84C3-A6E33B99AFAC",
+            "name": "凯里销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50035973"
+        },
+        {
+            "id": "8C013020-89E0-49D7-B308-DBCB5ABF94BA",
+            "name": "昆明销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50002166"
+        },
+        {
+            "id": "8C58216F-1159-4627-B1ED-C97306736B2E",
+            "name": "行政部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263713"
+        },
+        {
+            "id": "8D09E9DB-1709-4CFE-8D90-696BAA793416",
+            "name": "销售管理部",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50196198"
+        },
+        {
+            "id": "8D2B70BF-82D7-4B9C-B53B-D0A190B589A9",
+            "name": "夜场销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238755"
+        },
+        {
+            "id": "8D5E9ADB-9700-464D-B0B2-5979A5E99BF6",
+            "name": "沈阳周边销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007233"
+        },
+        {
+            "id": "8D7E1FA7-4721-4B71-B0EB-0578C0DB32F7",
+            "name": "营运部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50239643"
+        },
+        {
+            "id": "8D9D2B0D-B749-422F-B818-52FC4E657F12",
+            "name": "深圳东销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50043969"
+        },
+        {
+            "id": "8E75995A-0E73-47C8-8BEA-1F705B8B144D",
+            "name": "营运中心",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50237655"
+        },
+        {
+            "id": "8E79E0A4-2AD6-43ED-A334-782186BBDD29",
+            "name": "OCMS暂存大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50216685"
+        },
+        {
+            "id": "8F186579-CD9C-4889-B3A8-EA1968176CA8",
+            "name": "夜场销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50212071"
+        },
+        {
+            "id": "8F92E154-51B7-4E98-9C65-18D4E2227B72",
+            "name": "安庆销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019728"
+        },
+        {
+            "id": "8F995097-6103-4E7C-81AB-A7706BC6F663",
+            "name": "天津现代零售销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50002384"
+        },
+        {
+            "id": "8FFC6218-9596-4814-B0E5-658D0BB60854",
+            "name": "泰安销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50039760"
+        },
+        {
+            "id": "901A070E-8962-4F35-A860-7E994AFB7FE2",
+            "name": "京北销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50181237"
+        },
+        {
+            "id": "903B1CAC-FB78-47B8-AF46-130755747356",
+            "name": "蒙文销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005891"
+        },
+        {
+            "id": "90672F3D-4EA7-4349-995C-6EB6D2343A11",
+            "name": "行政管理部",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50313402"
+        },
+        {
+            "id": "9142BAAB-9CA4-47CC-8F37-9234A9E303C8",
+            "name": "陕南销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185681"
+        },
+        {
+            "id": "918C1B86-9718-489F-9053-94E07162F251",
+            "name": "虚拟大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001913"
+        },
+        {
+            "id": "91953A4B-75D3-4FBC-B8CA-8E899FACA4E0",
+            "name": "销售财务部",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50214311"
+        },
+        {
+            "id": "91DF1F42-17D5-4FB7-BC87-9723612B5AA7",
+            "name": "万州销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038130"
+        },
+        {
+            "id": "92046018-9DE9-47AE-B523-E6A97AA5E559",
+            "name": "高端餐饮销售大区(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50228045"
+        },
+        {
+            "id": "92D8B022-9BAE-4DCC-B6C9-603433703CC2",
+            "name": "吉林营销中心市场部",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50207518"
+        },
+        {
+            "id": "930949C5-EF0C-4A4C-80A6-9D50348AFD38",
+            "name": "昭曲销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005893"
+        },
+        {
+            "id": "9364BB68-D1C7-4D3C-BE5E-FD825B88D2B9",
+            "name": "渠道营销部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50245000"
+        },
+        {
+            "id": "93884D27-24B0-480E-A2DE-09672C3ED0D4",
+            "name": "随州销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50010566"
+        },
+        {
+            "id": "93A78FEE-8F51-4042-B190-5BBF96EE5FC6",
+            "name": "兰州销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184278"
+        },
+        {
+            "id": "941B2D6C-A033-46BB-901B-A153A5EEC1EB",
+            "name": "人力资源部",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50239691"
+        },
+        {
+            "id": "95134591-CBBF-4A13-B074-D023AE83A01C",
+            "name": "夜场销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50240126"
+        },
+        {
+            "id": "953D1A2B-1BF3-4E0D-90C5-522CA5D14422",
+            "name": "三平大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50300128"
+        },
+        {
+            "id": "95817514-2281-4717-9EEC-53816B90BB10",
+            "name": "三亚销售大区",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50040750"
+        },
+        {
+            "id": "96023FA6-0284-4A4A-A0E1-C4EDBE92EC82",
+            "name": "高端销售大区（作废）",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50236863"
+        },
+        {
+            "id": "973C1832-C47A-48A3-92F0-F6D8C0D42A8B",
+            "name": "玉楚销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238782"
+        },
+        {
+            "id": "973F7903-9B3D-458D-9665-C331507777AA",
+            "name": "四平辽源销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50007035"
+        },
+        {
+            "id": "974381BB-FD72-49B4-93D5-704046621E57",
+            "name": "鄂尔多斯销售大区",
+            "parentId": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "type": 40,
+            "orgCode": "50183728"
+        },
+        {
+            "id": "982180D6-FB79-4466-AD0F-C4B9D1057980",
+            "name": "信息部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263716"
+        },
+        {
+            "id": "98359655-C635-4464-9A87-879C82A5E3D3",
+            "name": "虚拟苏州夜场销售大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50254005"
+        },
+        {
+            "id": "9842547A-7196-4923-8A01-01BFFDE3CE50",
+            "name": "日照大区（作废）",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50039759"
+        },
+        {
+            "id": "98A7C1FA-C84F-44E0-9C2B-A3B74D574813",
+            "name": "成都现代零售销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50002085"
+        },
+        {
+            "id": "9932F99B-AA54-4C15-8B86-F8E067C4470A",
+            "name": "苏州夜场部（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50222391"
+        },
+        {
+            "id": "99C0818D-0B0E-44AB-97B2-8DDDC0576437",
+            "name": "高档桶啤销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50273184"
+        },
+        {
+            "id": "99C2753D-BE3A-4D4A-ABCB-BDD4E1C2C434",
+            "name": "青岛销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50039757"
+        },
+        {
+            "id": "9A3CE119-A466-4EA7-A455-11D60A3B01C8",
+            "name": "青松销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50032354"
+        },
+        {
+            "id": "9B253484-044B-4FB0-991F-30D0BF9312AD",
+            "name": "烟威销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005785"
+        },
+        {
+            "id": "9B71305D-EFC9-401C-B000-5EB2E301BFC2",
+            "name": "黄石销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005287"
+        },
+        {
+            "id": "9BFF1D37-2869-4DC5-A552-C8F4FCBC5543",
+            "name": "新销售大区（作废）",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50220012"
+        },
+        {
+            "id": "9C44029C-E7D5-46EF-BA33-EEC02D1349A4",
+            "name": "监察部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50263725"
+        },
+        {
+            "id": "9C4B9C27-8E7F-41AE-8859-2590213D0540",
+            "name": "黑龙江现代零售销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011232"
+        },
+        {
+            "id": "9CA97501-7546-4211-BDAC-F4CC972314EA",
+            "name": "无锡销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001157"
+        },
+        {
+            "id": "9D489A18-B674-425D-B9DE-C1A3F532308E",
+            "name": "乐山销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50025920"
+        },
+        {
+            "id": "9D802833-12F1-4CBF-B31E-914ABFBD3500",
+            "name": "渠道管理部(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50238850"
+        },
+        {
+            "id": "9D9A9601-0F7F-40DE-855B-488775AE107D",
+            "name": "长沙销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005493"
+        },
+        {
+            "id": "9E2727CA-2613-44B5-A0FB-256FFB78F738",
+            "name": "北部湾销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201309"
+        },
+        {
+            "id": "9EC1D9C3-B417-4B0E-8502-48F956E2D695",
+            "name": "现代零售销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50192108"
+        },
+        {
+            "id": "9FA36DED-A249-4855-893C-89E2BC401D8B",
+            "name": "高端餐饮销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50278862"
+        },
+        {
+            "id": "9FAF988E-09F9-43CB-A0D4-CF49C82B45CD",
+            "name": "销售管理部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238385"
+        },
+        {
+            "id": "9FBD4871-AAA0-4606-976C-D9CF5F188E60",
+            "name": "湖北营销中心销售财务部",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50216657"
+        },
+        {
+            "id": "9FED99A5-E5E3-449D-9C46-376D2DF4C171",
+            "name": "汕头销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50006669"
+        },
+        {
+            "id": "A06ED5E8-E07E-44A8-B691-D4A5FEB9BA6E",
+            "name": "深莞惠夜场销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50209879"
+        },
+        {
+            "id": "A1B09B06-4C9F-4FCA-ADD8-AA3085DE2A27",
+            "name": "保定销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50276336"
+        },
+        {
+            "id": "A1D1A948-EACD-44DC-A260-59A45C9AC08F",
+            "name": "南昌销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50002368"
+        },
+        {
+            "id": "A2CA8DAF-97AA-4778-9559-E691696FCF80",
+            "name": "啤酒城高端餐饮销售大区",
+            "parentId": "A48645C6-76F4-47F4-B408-38908E7EB8EC",
+            "type": 40,
+            "orgCode": "50273871"
+        },
+        {
+            "id": "A4176A85-78FE-433A-9A1E-E1496DECA7AF",
+            "name": "深圳西销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50043970"
+        },
+        {
+            "id": "A43A744B-F472-432A-8BB0-AD61E65C4D76",
+            "name": "库尔勒销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50247745"
+        },
+        {
+            "id": "A4C67ACA-848E-410C-9D5B-15A78BAE14F9",
+            "name": "长周边松原销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50043688"
+        },
+        {
+            "id": "A4FBD781-48D3-4F3C-9415-B02E8581CA99",
+            "name": "销售管理部（福建营销）",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50204456"
+        },
+        {
+            "id": "A62FFBC5-415F-4400-9772-4044145D989C",
+            "name": "庆阳销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184282"
+        },
+        {
+            "id": "A64F1A65-9FE4-4CFB-AF80-99E37768EF6A",
+            "name": "百色销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201266"
+        },
+        {
+            "id": "A69E3DE3-A2C6-4D62-9C70-C2D64C1B6887",
+            "name": "渝餐饮销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038090"
+        },
+        {
+            "id": "A76EF4FE-0CB5-4C83-85FA-CFD7649508F1",
+            "name": "销售人力资源部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50245713"
+        },
+        {
+            "id": "A7D07536-84A8-4D32-8133-DF90F7E28DF6",
+            "name": "吉林销售营运部",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50222505"
+        },
+        {
+            "id": "A8352B0E-D0B3-4E43-97AF-77EFA59EFDB1",
+            "name": "东营大区（作废）",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50039761"
+        },
+        {
+            "id": "A91FCE11-C8B8-4D3D-9CEB-90CE4475DF6A",
+            "name": "齐庆销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50033309"
+        },
+        {
+            "id": "AA1F7572-96DC-4703-B33A-4D94B3D65A44",
+            "name": "雄安销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50196433"
+        },
+        {
+            "id": "AA986211-95DE-4E15-ABF0-A5C19807AE61",
+            "name": "夜场大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50202993"
+        },
+        {
+            "id": "AADDC721-B38D-4BA3-B349-522AB911321A",
+            "name": "雅安销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013336"
+        },
+        {
+            "id": "AEB189F0-2647-41CC-97F3-271C1F0FF250",
+            "name": "喜力电商",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268762"
+        },
+        {
+            "id": "AF86E1DE-2BE4-4951-8D09-C81B61DEF1FE",
+            "name": "人力二部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50263604"
+        },
+        {
+            "id": "AF9E0657-F6AD-4654-A7B3-2D01ED15DBE1",
+            "name": "营运部业务部",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50222540"
+        },
+        {
+            "id": "AFDB7A68-2B8D-4B64-A232-B73858632C5D",
+            "name": "牡鸡销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011224"
+        },
+        {
+            "id": "B08889C0-C960-40A8-B846-4F746818523C",
+            "name": "抚州销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50278651"
+        },
+        {
+            "id": "B0A92C44-6316-422C-8953-C9C6CB09BD5F",
+            "name": "南充销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013328"
+        },
+        {
+            "id": "B0B57731-A329-4A1C-8095-8058AAF37F9F",
+            "name": "哈周边销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011222"
+        },
+        {
+            "id": "B10AA8FF-7BD0-4272-B2BE-5EEE3B2046F5",
+            "name": "地理人力部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239880"
+        },
+        {
+            "id": "B2C4A41A-D201-49DD-A28C-C2EA430D518C",
+            "name": "综合管理部",
+            "parentId": "A48645C6-76F4-47F4-B408-38908E7EB8EC",
+            "type": 40,
+            "orgCode": "50280214"
+        },
+        {
+            "id": "B360C63F-AE5C-4124-9317-7971263DAA51",
+            "name": "市场部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50048930"
+        },
+        {
+            "id": "B37E79F3-CA98-4DDA-95E9-69087DBB4510",
+            "name": "市场部（大区）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001181"
+        },
+        {
+            "id": "B3ECD846-194B-4E9D-B09E-33FC01F40B7B",
+            "name": "承德销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005850"
+        },
+        {
+            "id": "B45B51B9-D8EA-4236-ACC8-E0C1B090AD76",
+            "name": "高档桶啤销售大区",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50254042"
+        },
+        {
+            "id": "B4762AA9-67EE-4AA6-B3BE-103F1F78AAF2",
+            "name": "雪花发展销售部",
+            "parentId": "70019139-EE10-4C5E-890B-4CF7A208240F",
+            "type": 40,
+            "orgCode": "50244026"
+        },
+        {
+            "id": "B494044D-4B0B-4F99-B1CC-047D800FBECE",
+            "name": "河北夜场销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005855"
+        },
+        {
+            "id": "B5309AC9-2967-4064-A11F-6286D27A357D",
+            "name": "湖南零售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50239907"
+        },
+        {
+            "id": "B5F7D7C3-41EB-418D-B893-EDCC029874EC",
+            "name": "湖南调拨大区(停用)",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50239902"
+        },
+        {
+            "id": "B715B96C-CB1C-4931-9AB7-9B4EC8DF1C46",
+            "name": "苏州夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50234535"
+        },
+        {
+            "id": "B74E0839-BA7B-4F59-AC9E-772097B5A728",
+            "name": "海南州销售大区(作废)",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184602"
+        },
+        {
+            "id": "B8070AD8-9C60-4B95-BCD9-0F8C61717A4D",
+            "name": "上海市北夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50222397"
+        },
+        {
+            "id": "B838A061-C5CB-4167-A55D-A36E80B2F361",
+            "name": "杭州销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50000667"
+        },
+        {
+            "id": "B870ED83-E5A3-41AE-AC29-91DFD122F3D5",
+            "name": "揭阳销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50202967"
+        },
+        {
+            "id": "B9546050-ACDA-4E93-B1E1-BED69CCECF87",
+            "name": "合肥市内销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50203511"
+        },
+        {
+            "id": "B99D6051-3E7D-4DC4-A6C8-ABF942AA290A",
+            "name": "营运部(作废)",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50240990"
+        },
+        {
+            "id": "B9FD299A-1DAF-476F-9C09-F02268EDDB97",
+            "name": "行政管理部",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50313405"
+        },
+        {
+            "id": "BA25BD43-75B4-4A39-93EA-889B1270F801",
+            "name": "营销中心市场部XZ",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50296998"
+        },
+        {
+            "id": "BA4C49D6-4F95-4ADE-AF34-19AA1B2F2514",
+            "name": "山西营销中心市场部",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50215485"
+        },
+        {
+            "id": "BAC44C7B-38B0-4CF8-BBD3-A927EE7CEF79",
+            "name": "营销数字化部",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50305779"
+        },
+        {
+            "id": "BB3483FF-ECC2-4C09-9664-F75C98A8CD5D",
+            "name": "营销中心市场部",
+            "parentId": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "type": 40,
+            "orgCode": "50258219"
+        },
+        {
+            "id": "BB4DEFE7-1221-4DD2-8EE9-C621C3CDEB83",
+            "name": "雪花香港销售部",
+            "parentId": "70019139-EE10-4C5E-890B-4CF7A208240F",
+            "type": 40,
+            "orgCode": "50244027"
+        },
+        {
+            "id": "BB8FE712-19E3-478C-9C52-DD1A6A7BD175",
+            "name": "潮汕销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50307674"
+        },
+        {
+            "id": "BB91C73E-4DED-4343-9D15-DD1463B28469",
+            "name": "江南销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038087"
+        },
+        {
+            "id": "BC629694-4ABF-4294-A565-95C4A8E58596",
+            "name": "虚拟夜场销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50001411"
+        },
+        {
+            "id": "BCFBA821-7FE4-42F8-99A9-FFE867E2CC19",
+            "name": "内江销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013332"
+        },
+        {
+            "id": "BE2487FF-3AAD-4F54-9E3E-4A98D91BA6ED",
+            "name": "广元销售大区（废）",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50022471"
+        },
+        {
+            "id": "BE2BB733-AA38-44E0-9F99-5F8DCC3B7625",
+            "name": "昌都销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184605"
+        },
+        {
+            "id": "BE351855-52A1-4ABD-B156-B6266EA0D7C8",
+            "name": "内退部(江西）",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50239708"
+        },
+        {
+            "id": "BE4693A6-0BBD-491F-914C-630FF5865284",
+            "name": "苏州中心销售大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001128"
+        },
+        {
+            "id": "BE5C093F-AD98-4947-BAD1-B61D75EE5333",
+            "name": "大众事业部西部区域",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284055"
+        },
+        {
+            "id": "BEEC5006-2407-4B4F-A592-867E10FCCE1F",
+            "name": "海西销售大区",
+            "parentId": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "type": 40,
+            "orgCode": "50184601"
+        },
+        {
+            "id": "BF323206-B101-4657-B654-A4024BDA7C20",
+            "name": "西昌销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013335"
+        },
+        {
+            "id": "BF38A139-E3E3-4AF8-A217-3EA0AD5A3B3D",
+            "name": "粤东夜场销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50308672"
+        },
+        {
+            "id": "C1334AA5-2F01-4658-B4D1-B95DD09BF871",
+            "name": "惠州销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50006780"
+        },
+        {
+            "id": "C14FC145-B3E0-4FB8-A7EA-2FE06EC1431F",
+            "name": "河北高端餐饮销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50277642"
+        },
+        {
+            "id": "C270229B-A64E-4A70-8E62-2C1B36FC2C02",
+            "name": "深圳关内销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50043968"
+        },
+        {
+            "id": "C2A39E8C-2280-40C7-B0B1-63895128FE5C",
+            "name": "广州东销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50209534"
+        },
+        {
+            "id": "C3B44FEC-A07E-4E35-8641-752A2EBC1887",
+            "name": "菏泽销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005809"
+        },
+        {
+            "id": "C3DE0D66-4642-49E2-9010-0586B473A008",
+            "name": "销售财务部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238384"
+        },
+        {
+            "id": "C454D44D-6E42-4311-8EBD-5E864F02F074",
+            "name": "深圳高端餐饮销售大区",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50001968"
+        },
+        {
+            "id": "C45A2CA9-C7F9-4C7D-8399-50E6CCDF7BF1",
+            "name": "西安销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185205"
+        },
+        {
+            "id": "C45F74C2-38C4-46E4-985F-8A2CCB29B823",
+            "name": "CVS渠道",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268763"
+        },
+        {
+            "id": "C4906020-9E6B-4A41-8CEE-6C742C806D38",
+            "name": "云南夜场销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50002182"
+        },
+        {
+            "id": "C55FC06F-0BC3-455D-AB48-76BB9B660C0C",
+            "name": "定西销售大区(作废)",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184281"
+        },
+        {
+            "id": "C60B8507-FE62-4EAB-9C0A-8880603E547D",
+            "name": "虚拟特渠业务大区",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50183459"
+        },
+        {
+            "id": "C6190622-8529-45CD-8275-253897001539",
+            "name": "广西营销人力资源部",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50238936"
+        },
+        {
+            "id": "C6833CFF-37E4-47DC-9781-6CE0C57C11E0",
+            "name": "上海HROCA夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50222402"
+        },
+        {
+            "id": "C710C93C-750A-4D52-B382-B2F9B3CD899D",
+            "name": "销售管理部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50036256"
+        },
+        {
+            "id": "C7C7D682-0965-466C-BC2A-6686BC13476F",
+            "name": "福建夜场大区（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50034714"
+        },
+        {
+            "id": "C7D5AF63-7F22-41C5-AB8E-B50F8DE778D7",
+            "name": "渝KA夜场销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50026290"
+        },
+        {
+            "id": "C7E2CCD9-FA82-4798-9245-351A158FF1A9",
+            "name": "攀枝花销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013333"
+        },
+        {
+            "id": "C81D4353-CFB1-4E8A-BFAD-DAF6B9965461",
+            "name": "O2O渠道",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268766"
+        },
+        {
+            "id": "C823ABC6-54C5-4281-A69F-A725C8B2DAD8",
+            "name": "阜阳销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019726"
+        },
+        {
+            "id": "C8C6E89D-F08D-416E-8775-77CDA842EB92",
+            "name": "天门销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005288"
+        },
+        {
+            "id": "C9957CDB-888A-4562-944E-2CF24B2A977B",
+            "name": "信息部（地理）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239914"
+        },
+        {
+            "id": "C9AB1147-1870-4E32-8940-3A8482C83833",
+            "name": "现代零售销售大区(作废)",
+            "parentId": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "type": 40,
+            "orgCode": "50228044"
+        },
+        {
+            "id": "C9B774BF-5737-4A5F-82B4-B60CE76EA376",
+            "name": "绍兴销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001735"
+        },
+        {
+            "id": "C9FBD63C-8772-4FD7-9068-901BE3F01A97",
+            "name": "现饮渠道",
+            "parentId": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "type": 40,
+            "orgCode": "50268764"
+        },
+        {
+            "id": "CA57D5E6-E0B7-4B7E-95B0-129347757437",
+            "name": "河南营销营运部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50240688"
+        },
+        {
+            "id": "CBBD4E27-52F7-452A-A7D3-C28C33EC6788",
+            "name": "南京周边销售大区（作废）",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50042371"
+        },
+        {
+            "id": "CD1E403E-A38A-43B1-BDBD-6DE192CCDD7D",
+            "name": "本抚销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007026"
+        },
+        {
+            "id": "CD543744-38D5-4161-8F8B-4F053DD93BAF",
+            "name": "常德销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005479"
+        },
+        {
+            "id": "CD629660-7B65-48BD-8CF5-D25D66BA5E23",
+            "name": "销售管理部(作废)",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50260161"
+        },
+        {
+            "id": "CDC7CE84-0699-417B-9C98-1B203A4C6F37",
+            "name": "现代零售销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50048804"
+        },
+        {
+            "id": "CEDB97C9-D412-4ADC-9C52-2E2487A4E91D",
+            "name": "陕北销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185725"
+        },
+        {
+            "id": "CEE4F53B-CF25-4A73-B79B-A86C48F4439D",
+            "name": "涪陵销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038101"
+        },
+        {
+            "id": "CF02F6D0-42C4-4F41-A74F-BC23DBD778FF",
+            "name": "区域内公司",
+            "parentId": "7F50097A-E4D0-43D4-9B18-C51941D808F7",
+            "type": 40,
+            "orgCode": "50256585"
+        },
+        {
+            "id": "CF2C68CD-490D-4647-8F80-6BED0BABCDA0",
+            "name": "合肥郊县销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50005730"
+        },
+        {
+            "id": "CF2CF6E8-275B-45A0-BA97-EB62AB0AA9A0",
+            "name": "津北销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50002317"
+        },
+        {
+            "id": "CF4D7273-0274-4EB6-97FC-C63E40E85A47",
+            "name": "宜宾销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013337"
+        },
+        {
+            "id": "CF71A40E-F975-4AEB-AB68-885226A0A119",
+            "name": "大连高端销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50216642"
+        },
+        {
+            "id": "CFC2D57B-5F03-49E2-A554-3DDFD2A10EEA",
+            "name": "高端餐饮销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50302697"
+        },
+        {
+            "id": "CFD94416-0650-410E-9587-53C65AFDC7DD",
+            "name": "法律部（高端）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239920"
+        },
+        {
+            "id": "CFE835DA-95ED-4627-B2C2-F23DBE929199",
+            "name": "销售管理部",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50218194"
+        },
+        {
+            "id": "D1BC772C-E1D7-4129-AA92-0A84DA9DCB40",
+            "name": "宁波销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50001736"
+        },
+        {
+            "id": "D1D82B78-D580-40A7-8A82-19272255F51A",
+            "name": "河源销售大区（废）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50043957"
+        },
+        {
+            "id": "D24E643F-58F6-4003-9754-1A76F38262EB",
+            "name": "银川销售大区",
+            "parentId": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "type": 40,
+            "orgCode": "50182981"
+        },
+        {
+            "id": "D2D665E8-41CF-450F-B0D4-4E2310D1B9C6",
+            "name": "渠道发展部",
+            "parentId": "3CC08988-900A-4640-A392-67761487836F",
+            "type": 40,
+            "orgCode": "50269482"
+        },
+        {
+            "id": "D31E9594-7F5C-4B7D-84C3-CCC41E148FE3",
+            "name": "沧州销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50276337"
+        },
+        {
+            "id": "D3CE2480-D1B1-4049-8563-94D06C2CA218",
+            "name": "黑龙江营销中心人力资源部",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50208953"
+        },
+        {
+            "id": "D3E88C50-7CC0-41B5-962C-9F8D990B08C6",
+            "name": "法律事务办公室",
+            "parentId": "95435671-3C8E-46AB-8DD5-CC1CB9D23E2C",
+            "type": 40,
+            "orgCode": "50239632"
+        },
+        {
+            "id": "D3EA7F2E-61F6-4F86-B835-3B4FFC6B2C80",
+            "name": "京南销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50181235"
+        },
+        {
+            "id": "D460D9D4-2BF2-4CDA-A680-0F87EC8A8E3A",
+            "name": "黑龙江营销中心市场部",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50207521"
+        },
+        {
+            "id": "D4A3D6AD-5CB5-451F-A05B-0FAF9F6C6BE8",
+            "name": "陕西营销中心市场部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50228506"
+        },
+        {
+            "id": "D4CD6B3E-FAF6-48FB-BF0A-22FEE008E15B",
+            "name": "虚拟上海市北夜场大区（作废）",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50253993"
+        },
+        {
+            "id": "D4D28E69-0E80-472E-B913-24B43C5E42E6",
+            "name": "渝西销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50026289"
+        },
+        {
+            "id": "D4DC3662-7024-4780-A7D5-54D6AFD45B3C",
+            "name": "黑龙江营销中心销售财务部",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50208952"
+        },
+        {
+            "id": "D685417A-C229-405C-AC97-C850378ABCE5",
+            "name": "玉楚销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005890"
+        },
+        {
+            "id": "D747CBED-5A8F-4621-AEB4-240CEA205339",
+            "name": "人力资源部",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50245178"
+        },
+        {
+            "id": "D81C8262-E922-4E40-9297-3CD0DAE5DFBE",
+            "name": "天水销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184283"
+        },
+        {
+            "id": "D8930060-6724-4F5A-B582-2A5A0EC5737B",
+            "name": "销售管理部（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50168285"
+        },
+        {
+            "id": "D895D94A-6ABE-42EB-8903-A5215FA14E1D",
+            "name": "西安工厂营运部",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50246381"
+        },
+        {
+            "id": "D9E04FC6-C32D-457F-819B-2B9110792D1F",
+            "name": "国际品牌部",
+            "parentId": "D5B12639-7D39-4605-9E16-EC0AFF8023E0",
+            "type": 40,
+            "orgCode": "50268004"
+        },
+        {
+            "id": "DA8BFFB7-A7F9-4BE2-89BA-5E1C3F6834C8",
+            "name": "忻阳销售大区（作废）",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50215431"
+        },
+        {
+            "id": "DAA332C2-B6DF-4373-AAA5-6126D683A6BA",
+            "name": "贵州销售营运部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50241433"
+        },
+        {
+            "id": "DB204ECB-5C6A-40F3-91F4-99B62EC48AED",
+            "name": "销售财务部",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50159853"
+        },
+        {
+            "id": "DB458A79-3782-473B-9142-C68B1DD3101B",
+            "name": "合肥餐饮大区（作废）",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50000633"
+        },
+        {
+            "id": "DB593EA3-19F8-409B-A65B-6FD6C966D83E",
+            "name": "焦济销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155145"
+        },
+        {
+            "id": "DBA396EB-CF26-434F-8735-18A123C22D8E",
+            "name": "沈阳销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50008568"
+        },
+        {
+            "id": "DBAA5B1C-CF83-4C5C-B231-12B1E665F227",
+            "name": "石家庄周边销售大区(作废)",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50039696"
+        },
+        {
+            "id": "DBFA19AD-48CD-4060-9A80-FB72D9C4CA46",
+            "name": "广州西销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50209533"
+        },
+        {
+            "id": "DC13070D-70CB-4485-9B6B-0A35E73E45C7",
+            "name": "贵州营销行政管理部",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50315056"
+        },
+        {
+            "id": "DCA5A71C-DE5A-450B-8480-84D259941A7D",
+            "name": "武汉周边销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005289"
+        },
+        {
+            "id": "DCBFD7BD-D6D6-4629-9481-A6F716B2BAD9",
+            "name": "传播管理部",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50284678"
+        },
+        {
+            "id": "DD143567-7FAC-457E-BCF8-16A36D245087",
+            "name": "内退人员部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50245066"
+        },
+        {
+            "id": "DED66D9E-CB11-46DD-A4F6-89937A920DAE",
+            "name": "测试大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50001576"
+        },
+        {
+            "id": "DF92CA38-4C65-4330-94CD-C88155CEEC0E",
+            "name": "渝南销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50026288"
+        },
+        {
+            "id": "E03187F1-85BE-4B5D-8B33-9AAF57592EEA",
+            "name": "乌鲁木齐销售大区",
+            "parentId": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "type": 40,
+            "orgCode": "50184285"
+        },
+        {
+            "id": "E0331582-200B-4C74-B500-54047F0FA27D",
+            "name": "滨海销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50028989"
+        },
+        {
+            "id": "E06983BC-4E5D-4644-B0F5-977C25C0D2AE",
+            "name": "销售管理部",
+            "parentId": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "type": 40,
+            "orgCode": "50239690"
+        },
+        {
+            "id": "E08C2B21-48FD-4D97-9DE4-AE1B180BAB4A",
+            "name": "津西销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50035794"
+        },
+        {
+            "id": "E11C9511-0F72-46C6-8C32-5738DD670CC1",
+            "name": "金威品牌（虚拟）",
+            "parentId": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "type": 40,
+            "orgCode": "50217220"
+        },
+        {
+            "id": "E1D84285-ABAF-466D-A84B-79039054B2CF",
+            "name": "蚌埠销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019732"
+        },
+        {
+            "id": "E30002EC-EFB3-402D-9C10-510C8B058EB8",
+            "name": "温瑞大区本部（作废）",
+            "parentId": "00000000-0000-0000-0000-000000000000",
+            "type": 40,
+            "orgCode": "50156624"
+        },
+        {
+            "id": "E33BB573-83C8-4E7F-AA51-922E174107A0",
+            "name": "工厂营运部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239898"
+        },
+        {
+            "id": "E34CEF10-BD4C-40A7-BACC-BC2C0A3F7189",
+            "name": "晋南销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50212307"
+        },
+        {
+            "id": "E3CE49F0-A574-4939-9588-279975DC8B2B",
+            "name": "营运部",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50247016"
+        },
+        {
+            "id": "E3F3A2AA-889B-4CCD-A2AB-A111811E1E91",
+            "name": "佛山销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50211743"
+        },
+        {
+            "id": "E4550E51-70E3-4BF5-BAF2-285623D39284",
+            "name": "厦门大区（已作废）",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50202992"
+        },
+        {
+            "id": "E502FBBF-9A6D-428F-B830-1E5381D19D60",
+            "name": "宁德大区（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50202989"
+        },
+        {
+            "id": "E51D8A04-27E0-4C64-A4EE-0C3E1DB594D6",
+            "name": "广西市场部",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50220576"
+        },
+        {
+            "id": "E588AD43-BE00-42E9-8A59-3508B168D23B",
+            "name": "湖北营销中心市场部",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50216665"
+        },
+        {
+            "id": "E635B994-78A9-41BF-88F3-AA4D97F634D0",
+            "name": "高端餐饮销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50238273"
+        },
+        {
+            "id": "E6468C0F-3B39-4BFC-8E47-D5F965220D3B",
+            "name": "银北销售大区",
+            "parentId": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "type": 40,
+            "orgCode": "50183727"
+        },
+        {
+            "id": "E651A1A1-AEB1-492B-AC9B-89F9A1C47966",
+            "name": "兴义销售大区",
+            "parentId": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "type": 40,
+            "orgCode": "50036097"
+        },
+        {
+            "id": "E65A4C3F-B222-4CD0-919A-5EB9CF15A525",
+            "name": "白酒销售公司策划推广部",
+            "parentId": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "type": 40,
+            "orgCode": "50285288"
+        },
+        {
+            "id": "E7316B53-B8B9-484C-9D83-B4F9E006DFDB",
+            "name": "营销中心人力资源部",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50154861"
+        },
+        {
+            "id": "E75DA8F0-5FB7-4C47-AD27-6B274A044516",
+            "name": "贺州销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50201412"
+        },
+        {
+            "id": "E764DF1B-9846-4ADD-BFEA-919A11454DCB",
+            "name": "宣城销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019730"
+        },
+        {
+            "id": "E8272BD8-A112-4999-93D8-547972AE7FBE",
+            "name": "济南销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005804"
+        },
+        {
+            "id": "E861028B-4453-4DC0-BEAB-861AAE929A93",
+            "name": "龙岩大区（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50284827"
+        },
+        {
+            "id": "E89CD15D-9BD1-42FC-9683-2F7CBA91A324",
+            "name": "人力资源部",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50240462"
+        },
+        {
+            "id": "E8D16E69-1C1B-4EA7-8BFA-AEC602D377D8",
+            "name": "销售财务部",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50220546"
+        },
+        {
+            "id": "E8E6899C-62F5-4B8A-881C-141360D9AB79",
+            "name": "KA销售大区（作废）",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50212069"
+        },
+        {
+            "id": "E97E09E9-08BD-4975-8D86-63BB3428848A",
+            "name": "渝KA销售大区（废）",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50038102"
+        },
+        {
+            "id": "EA7A954A-3C0E-4F39-8943-2D3B18BB9F2C",
+            "name": "高端餐饮销售大（作废）",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50000710"
+        },
+        {
+            "id": "EAFEF99A-C1EC-47B4-950A-D6F868317724",
+            "name": "兴河销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50185758"
+        },
+        {
+            "id": "EB133378-D492-4DED-AA59-683E7151A167",
+            "name": "湖北调拨大区(停用)",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50238469"
+        },
+        {
+            "id": "EB80522D-02BE-4347-9421-2019F9C7F5CE",
+            "name": "白酒销售部",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50272402"
+        },
+        {
+            "id": "EB842897-89E5-41BF-BE16-A8F51CE3073B",
+            "name": "德保销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238784"
+        },
+        {
+            "id": "EBAA95C4-7640-41FB-A6A6-1027010B9BB6",
+            "name": "厦门大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50294093"
+        },
+        {
+            "id": "EBCDF7BA-D720-4B12-9FDA-60BD3A1A574B",
+            "name": "湖北营销中心营运部",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50246523"
+        },
+        {
+            "id": "EC3A2ABA-8B9D-4F90-ADE7-C7ECCBFAE3B5",
+            "name": "滨东销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50002141"
+        },
+        {
+            "id": "EC579F59-DCAF-41F8-BB2C-F9E990FAF398",
+            "name": "营运部(作废)",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50240992"
+        },
+        {
+            "id": "EC6CE4CE-1EF4-4812-A42F-C8CD5CADEFCB",
+            "name": "夜场销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50302698"
+        },
+        {
+            "id": "ECC55F84-E352-4602-B1CB-3C71CC7071E6",
+            "name": "销售管理部",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50154858"
+        },
+        {
+            "id": "EDACA2CE-01DA-439D-B453-07571F85D00E",
+            "name": "人力资源部",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50215497"
+        },
+        {
+            "id": "EE50F8F0-6413-413D-89F7-1285EBEC220B",
+            "name": "泉州大区",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50202990"
+        },
+        {
+            "id": "EE6BA24B-1E4A-4428-8E47-C96C71A4E766",
+            "name": "绵阳销售大区",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50013331"
+        },
+        {
+            "id": "EEEC7A37-8D1E-47A5-BCA9-76B80B253E2C",
+            "name": "厦漳大区（已作废）",
+            "parentId": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "type": 40,
+            "orgCode": "50202994"
+        },
+        {
+            "id": "EFD3D587-FE3A-4F40-A6EA-941D90361E5D",
+            "name": "西安周边销售大区",
+            "parentId": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "type": 40,
+            "orgCode": "50185499"
+        },
+        {
+            "id": "F006702D-F1EC-4261-BFF3-1C7DE6F6992D",
+            "name": "南宁周边销售大区",
+            "parentId": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "type": 40,
+            "orgCode": "50185268"
+        },
+        {
+            "id": "F00E2101-2D47-4B61-9363-EF1A7D938A75",
+            "name": "大连销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50002183"
+        },
+        {
+            "id": "F04DD96D-CB5F-460F-92B5-4DA6F111EE45",
+            "name": "福建KA大区（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50156838"
+        },
+        {
+            "id": "F055C9B9-99C0-4036-BBBE-07ACCE3FFFCD",
+            "name": "营运部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50239917"
+        },
+        {
+            "id": "F0BEEC2D-59B4-438C-99D1-F21261312B5D",
+            "name": "六安销售大区",
+            "parentId": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "type": 40,
+            "orgCode": "50019724"
+        },
+        {
+            "id": "F0F49961-AFFD-483C-B36A-C042EC60FF20",
+            "name": "高端市场部",
+            "parentId": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "type": 40,
+            "orgCode": "50239889"
+        },
+        {
+            "id": "F14FEBD1-24CB-4EC5-BD8F-67C2B4BFF2D1",
+            "name": "现代零售销售大区",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50000668"
+        },
+        {
+            "id": "F197293B-27F5-42AD-8256-6A221734C181",
+            "name": "人力资源部",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50214077"
+        },
+        {
+            "id": "F19FA9AB-E2E9-443E-A2FE-0D2F6BD4DF4B",
+            "name": "湘西销售大区",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50005489"
+        },
+        {
+            "id": "F1CEE939-5694-4858-A459-2AA0E2EAEC0D",
+            "name": "黄冈销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50010452"
+        },
+        {
+            "id": "F3479C57-BA5E-400C-8179-9F5CEC078351",
+            "name": "上海市东夜场部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50222401"
+        },
+        {
+            "id": "F38D46A4-AEF7-476A-9E88-6ABFD23A54E4",
+            "name": "温瑞销售大区（作废）",
+            "parentId": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "type": 40,
+            "orgCode": "50044372"
+        },
+        {
+            "id": "F3BC048B-718D-439D-942F-8BC0D458162C",
+            "name": "销售财务部",
+            "parentId": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "type": 40,
+            "orgCode": "50001183"
+        },
+        {
+            "id": "F3DEFE7F-43DF-42BE-B4C5-252E06FFB60F",
+            "name": "现代零售销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50002143"
+        },
+        {
+            "id": "F4327794-034A-479C-8F95-F1B7F0710A31",
+            "name": "双七销售大区",
+            "parentId": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "type": 40,
+            "orgCode": "50011225"
+        },
+        {
+            "id": "F47F4917-FF81-4E17-9863-CB3700CF0304",
+            "name": "郑州郊县销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50042968"
+        },
+        {
+            "id": "F51A54C4-9495-446F-B343-0AC50B9B442C",
+            "name": "福州大区（已作废）",
+            "parentId": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "type": 40,
+            "orgCode": "50202988"
+        },
+        {
+            "id": "F55B136B-CBB9-4639-AE02-BAFF391650D0",
+            "name": "湖南营销中心销售管理部",
+            "parentId": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "type": 40,
+            "orgCode": "50216406"
+        },
+        {
+            "id": "F577DE05-954C-475A-A3EA-0F6B1B747637",
+            "name": "邢台销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50276338"
+        },
+        {
+            "id": "F5E752AC-909C-4F2B-B80E-9E9933CE7A5C",
+            "name": "荆州销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50010625"
+        },
+        {
+            "id": "F61885C9-4087-4912-AD36-04FBB585C4D1",
+            "name": "湖北现代零售销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50028938"
+        },
+        {
+            "id": "F625C522-240B-4F01-9CA3-3A89B3E50397",
+            "name": "襄阳销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005290"
+        },
+        {
+            "id": "F6491899-DD8E-49BB-AE75-B43083728DA2",
+            "name": "衡邢销售大区(作废)",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005851"
+        },
+        {
+            "id": "F65C0FD1-05FD-4D25-BC9A-03A274117E3B",
+            "name": "昆明销售大区",
+            "parentId": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "type": 40,
+            "orgCode": "50238754"
+        },
+        {
+            "id": "F6AD3728-795D-4FBF-BC6E-496F7931B791",
+            "name": "KA及夜场销售大区（作废）",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50155148"
+        },
+        {
+            "id": "F74A5D22-5161-44AB-912A-DF104261C51F",
+            "name": "闵奉销售大区",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50234440"
+        },
+        {
+            "id": "F7B9E1E5-AA04-48B7-8C5D-BD16BA4C9550",
+            "name": "虚拟销售大区",
+            "parentId": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "type": 40,
+            "orgCode": "50038045"
+        },
+        {
+            "id": "F7D48CA7-01A5-4D9F-8495-F37F35CE3205",
+            "name": "行政管理部",
+            "parentId": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "type": 40,
+            "orgCode": "50313404"
+        },
+        {
+            "id": "F81FB0C7-B691-4360-BCED-2EDDD81FD903",
+            "name": "市场部（已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50168287"
+        },
+        {
+            "id": "F94511A7-C408-458A-BB10-896BF819E7CE",
+            "name": "晋东南销售大区",
+            "parentId": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "type": 40,
+            "orgCode": "50212376"
+        },
+        {
+            "id": "F9846F13-5EBF-444E-A7B2-B31A9F274FB8",
+            "name": "白酒销售部",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50273546"
+        },
+        {
+            "id": "F9F1E198-1BCC-42A8-A939-867F7DE6E967",
+            "name": "营销管理团队",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50308078"
+        },
+        {
+            "id": "FA4944A0-53DF-4570-87E2-D2ED77FA9F0C",
+            "name": "邯聊销售大区",
+            "parentId": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "type": 40,
+            "orgCode": "50005813"
+        },
+        {
+            "id": "FA7A0EC0-1034-4759-907B-2CAFAC0E89C1",
+            "name": "商开销售大区",
+            "parentId": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "type": 40,
+            "orgCode": "50043620"
+        },
+        {
+            "id": "FA89AE90-B8C3-4EC2-B155-5D7AAA3BB571",
+            "name": "天津夜场销售大区",
+            "parentId": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "type": 40,
+            "orgCode": "50002383"
+        },
+        {
+            "id": "FA8F7DAD-A550-468E-9FD6-E67D0725386E",
+            "name": "张家口销售大区",
+            "parentId": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "type": 40,
+            "orgCode": "50005853"
+        },
+        {
+            "id": "FAEB1884-1558-46E3-8D6D-18F82221E44F",
+            "name": "夜场销售大区",
+            "parentId": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "type": 40,
+            "orgCode": "50209798"
+        },
+        {
+            "id": "FB90BD2E-2A6F-4FFA-AC53-C1C7C6853EE0",
+            "name": "海丰餐饮销售大区",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50006103"
+        },
+        {
+            "id": "FCDAEDAF-5FC8-40A6-A75F-9D1E4D420A1A",
+            "name": "朝阜销售大区",
+            "parentId": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "type": 40,
+            "orgCode": "50007024"
+        },
+        {
+            "id": "FD402B82-1A1C-42D4-9F73-74466C6582C7",
+            "name": "北京销售管理部",
+            "parentId": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "type": 40,
+            "orgCode": "50238847"
+        },
+        {
+            "id": "FD7FA3B7-B1F4-4D16-9995-A366C621A7F0",
+            "name": "湖北夜场销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50002160"
+        },
+        {
+            "id": "FDC90923-1BA1-41B9-8A27-7579790CC18E",
+            "name": "长期非在岗部",
+            "parentId": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "type": 40,
+            "orgCode": "50245002"
+        },
+        {
+            "id": "FE2FEC06-9BF0-470B-9411-BE95813B0DE6",
+            "name": "重庆主城销售大区",
+            "parentId": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "type": 40,
+            "orgCode": "50041998"
+        },
+        {
+            "id": "FECA8A99-3AFB-466C-A890-3D09463AB700",
+            "name": "宜昌销售大区",
+            "parentId": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "type": 40,
+            "orgCode": "50005291"
+        },
+        {
+            "id": "FF880590-834C-497B-B218-1E2E96662793",
+            "name": "江西夜场销售大区",
+            "parentId": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "type": 40,
+            "orgCode": "50002369"
+        },
+        {
+            "id": "FF913C97-40CA-4819-8121-322E737893BA",
+            "name": "夜场滇南销售大区（废）",
+            "parentId": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "type": 40,
+            "orgCode": "50005894"
+        },
+        {
+            "id": "FFF831EE-EDF4-4BC7-991B-E0A3EF7C90AB",
+            "name": "厦漳大区(已作废）",
+            "parentId": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "type": 40,
+            "orgCode": "50034710"
+        }
+    ]
+}

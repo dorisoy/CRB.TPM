@@ -1,0 +1,845 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1670317736,
+    "data": {
+        "accountId": "a254c8f2-7b89-455e-a392-c2f49add595c",
+        "platform": 0,
+        "username": "GENGCHAO3",
+        "name": "耿超",
+        "skin": {},
+        "tabnav": {
+            "enabled": true,
+            "showHome": true,
+            "homeUrl": "",
+            "showIcon": true,
+            "maxOpenCount": 20
+        },
+        "menus": [],
+        "buttons": [],
+        "roles": [
+            {
+                "label": "业务员",
+                "value": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "disabled": false
+            }
+        ],
+        "accountRoles": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "id": "acb30f4b-8436-4dd3-9683-2cfd5074bff4"
+            }
+        ],
+        "accountRoleOrgs": [
+            {
+                "orgId": "4ddc6d6e-68d0-4e6b-8196-6ab8d80c398c",
+                "id": "63fe5686-5358-a1db-e9f1-3a07f8617dc6"
+            },
+            {
+                "orgId": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+                "id": "a5050170-920b-e93a-dfbf-3a07f8617dc6"
+            },
+            {
+                "orgId": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+                "id": "d2e5b14e-0540-2c6f-f80b-3a07f8617dc6"
+            },
+            {
+                "orgId": "f3af0045-6bc0-4ba1-889a-329d8fe25a6b",
+                "id": "ee3f41aa-5915-13fc-d83a-3a07f8617dc6"
+            },
+            {
+                "orgId": "5d224e1f-53b4-4c70-a30a-0f1d0bca43df",
+                "id": "ef82208b-2dc4-062e-a74b-3a07f8617dc6"
+            }
+        ],
+        "aros": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152657",
+                "roleName": "业务员",
+                "orgs": [
+                    "4ddc6d6e-68d0-4e6b-8196-6ab8d80c398c",
+                    "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+                    "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+                    "f3af0045-6bc0-4ba1-889a-329d8fe25a6b",
+                    "5d224e1f-53b4-4c70-a30a-0f1d0bca43df"
+                ]
+            }
+        ],
+        "mOrgs": {
+            "headOffice": [],
+            "dbs": [
+                {
+                    "id": "f3af0045-6bc0-4ba1-889a-329d8fe25a6b",
+                    "parentId": "f7596215-773e-4c6f-a10c-2899c294bd61",
+                    "orgCode": "50002429",
+                    "orgName": "北京区域公司",
+                    "type": 20,
+                    "attribute": 1
+                }
+            ],
+            "marketingCenters": [
+                {
+                    "id": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+                    "parentId": "f3af0045-6bc0-4ba1-889a-329d8fe25a6b",
+                    "orgCode": "50002431",
+                    "orgName": "北京营销中心",
+                    "type": 30,
+                    "attribute": 1
+                }
+            ],
+            "saleRegions": [
+                {
+                    "id": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+                    "parentId": "e9337547-f7df-4ac7-a3af-449c4ece1c24",
+                    "orgCode": "50181234",
+                    "orgName": "中心非现饮销售大区",
+                    "type": 40,
+                    "attribute": 1
+                }
+            ],
+            "departments": [
+                {
+                    "id": "5d224e1f-53b4-4c70-a30a-0f1d0bca43df",
+                    "parentId": "2e0f9e46-d7f9-42c3-a9ba-29f49cbe9c20",
+                    "orgCode": "50253260",
+                    "orgName": "朝阳业务部",
+                    "type": 50,
+                    "attribute": 1
+                }
+            ],
+            "stations": [
+                {
+                    "id": "4ddc6d6e-68d0-4e6b-8196-6ab8d80c398c",
+                    "parentId": "5d224e1f-53b4-4c70-a30a-0f1d0bca43df",
+                    "orgCode": "50253262",
+                    "orgName": "朝阳非现饮工作站",
+                    "type": 60,
+                    "attribute": 1
+                }
+            ]
+        }
+    }
+}
+
+
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1670318668,
+    "data": {
+        "accountId": "6722c640-4128-c0b5-e1cf-c05581152653",
+        "platform": 0,
+        "username": "admin",
+        "name": "超级管理员",
+        "phone": "13002929017",
+        "email": "tpm@dorisoy.com",
+        "skin": {},
+        "tabnav": {
+            "enabled": true,
+            "showHome": true,
+            "homeUrl": "",
+            "showIcon": true,
+            "maxOpenCount": 20
+        },
+        "menus": [
+            {
+                "id": "6722c640-4128-c0b5-e1cf-c05581158881",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "type": 0,
+                "routeName": "",
+                "routeParams": "",
+                "routeQuery": "",
+                "icon": "data",
+                "iconColor": "",
+                "url": "",
+                "target": 0,
+                "dialogWidth": "800px",
+                "dialogHeight": "600px",
+                "dialogFullscreen": false,
+                "level": 1,
+                "sort": 4,
+                "show": true,
+                "buttons": [],
+                "locales": {
+                    "zh-cn": "基础数据",
+                    "en": "Base Data"
+                },
+                "children": [
+                    {
+                        "id": "07912206-859e-8b27-5c88-3a07e33a219e",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 0,
+                        "routeName": "",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "module-fill",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 5,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "产品",
+                            "en": "Product"
+                        },
+                        "children": [
+                            {
+                                "id": "a26f1f82-3a38-599b-80b8-3a07e34188af",
+                                "parentId": "07912206-859e-8b27-5c88-3a07e33a219e",
+                                "type": 1,
+                                "routeName": "maindata_product_property",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 3,
+                                "sort": 2,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_product_property_add",
+                                    "maindata_product_property_delete",
+                                    "maindata_product_property_export",
+                                    "maindata_product_property_edit"
+                                ],
+                                "locales": {
+                                    "zh-cn": "产品属性",
+                                    "en": "Product Property"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "d9ddf90a-637f-9f70-bf3b-3a07e4102690",
+                                "parentId": "07912206-859e-8b27-5c88-3a07e33a219e",
+                                "type": 1,
+                                "routeName": "maindata_marketing_product",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 3,
+                                "sort": 3,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_marketing_product_edit",
+                                    "maindata_marketing_product_add",
+                                    "maindata_marketing_product_delete",
+                                    "maindata_marketing_product_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "营销中心产品",
+                                    "en": "Marketing Product"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "470011dc-a381-6757-3e3b-3a07e340fef1",
+                                "parentId": "07912206-859e-8b27-5c88-3a07e33a219e",
+                                "type": 1,
+                                "routeName": "maindata_product",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 3,
+                                "sort": 1,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_product_edit",
+                                    "maindata_product_add",
+                                    "maindata_product_delete",
+                                    "maindata_product_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "产品信息",
+                                    "en": "Product"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ff907097-d2e9-a825-579e-3a07d8fda775",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 0,
+                        "routeName": "",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "menu",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 1,
+                        "sort": 4,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "终端",
+                            "en": "Teminal"
+                        },
+                        "children": [
+                            {
+                                "id": "35ea39d7-1faf-eebf-c4e8-3a07d8fde239",
+                                "parentId": "ff907097-d2e9-a825-579e-3a07d8fda775",
+                                "type": 1,
+                                "routeName": "maindata_terminal_distributor",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 1,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_terminal_distributor_delete",
+                                    "maindata_terminal_distributor_edit",
+                                    "maindata_terminal_distributor_export",
+                                    "maindata_terminal_distributor_add"
+                                ],
+                                "locales": {
+                                    "zh-cn": "终端经销商",
+                                    "en": "TerminalDistributor"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "c4ff0842-071f-4c36-afe7-3a07d94ae9c1",
+                                "parentId": "ff907097-d2e9-a825-579e-3a07d8fda775",
+                                "type": 1,
+                                "routeName": "maindata_terminal_user",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 3,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_terminal_user_add",
+                                    "maindata_terminal_user_delete",
+                                    "maindata_terminal_user_edit",
+                                    "maindata_terminal_user_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "终端业务员",
+                                    "en": "Terminal User"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "6e8f0831-315b-f356-ff72-3a07d91796d0",
+                                "parentId": "ff907097-d2e9-a825-579e-3a07d8fda775",
+                                "type": 1,
+                                "routeName": "maindata_terminal",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 2,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_terminal_delete",
+                                    "maindata_terminal_add",
+                                    "maindata_terminal_export",
+                                    "maindata_terminal_edit"
+                                ],
+                                "locales": {
+                                    "zh-cn": "终端",
+                                    "en": "Terminal"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158885",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 1,
+                        "routeName": "admin_dict",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "dict",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 1,
+                        "show": true,
+                        "buttons": [
+                            "admin_dictgroup_add",
+                            "admin_dictitem_delete",
+                            "admin_dictitem_add",
+                            "admin_dict_delete",
+                            "admin_dictitem_edit",
+                            "admin_dictgroup_edit",
+                            "admin_dict_edit",
+                            "admin_dictgroup_delete",
+                            "admin_dict_add"
+                        ],
+                        "locales": {
+                            "zh-cn": "字典管理",
+                            "en": "Dict Manage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "feff8009-57c7-4321-9758-3a07be85448f",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 0,
+                        "routeName": "",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "flow",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 1,
+                        "sort": 2,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "组织架构",
+                            "en": "organizational"
+                        },
+                        "children": [
+                            {
+                                "id": "82d4e8ad-ce18-2c54-6d7d-3a07ce3213f0",
+                                "parentId": "feff8009-57c7-4321-9758-3a07be85448f",
+                                "type": 1,
+                                "routeName": "maindata_marketingsetup",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "cogs",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 1,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_marketingsetup_edit",
+                                    "maindata_marketingsetup_add",
+                                    "maindata_marketingsetup_delete",
+                                    "maindata_marketingsetup_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "营销中心配置",
+                                    "en": "MarketingSetup"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "341d09ea-a722-1ad3-4d9c-3a07d28726b8",
+                                "parentId": "feff8009-57c7-4321-9758-3a07be85448f",
+                                "type": 1,
+                                "routeName": "maindata_org",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 2,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_org_export",
+                                    "maindata_org_delete",
+                                    "maindata_org_add",
+                                    "maindata_org_edit"
+                                ],
+                                "locales": {
+                                    "zh-cn": "组织树",
+                                    "en": "Org"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "2a61cc86-e5d8-00af-96be-3a07be8edc5d",
+                                "parentId": "feff8009-57c7-4321-9758-3a07be85448f",
+                                "type": 1,
+                                "routeName": "maindata_entity",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 3,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_entity_edit",
+                                    "maindata_entity_delete",
+                                    "maindata_entity_export",
+                                    "maindata_entity_add"
+                                ],
+                                "locales": {
+                                    "zh-cn": "法人主体",
+                                    "en": "Entity"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0a07d27f-dc24-15e5-a36b-3a07d60d77b6",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158881",
+                        "type": 0,
+                        "routeName": "maindata_distributor",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "captcha",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 1,
+                        "sort": 3,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "客户信息",
+                            "en": "Distributor"
+                        },
+                        "children": [
+                            {
+                                "id": "fe6ab5db-b5ae-4fe7-8529-3a07d8e2b4f8",
+                                "parentId": "0a07d27f-dc24-15e5-a36b-3a07d60d77b6",
+                                "type": 1,
+                                "routeName": "maindata_distributor_relation",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 2,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_distributor_relation_add",
+                                    "maindata_distributor_relation_edit",
+                                    "maindata_distributor_relation_delete",
+                                    "maindata_distributor_relation_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "经销分销关系",
+                                    "en": "DistributorRelation"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "b8786077-65bd-66e1-5b30-3a07d60dacda",
+                                "parentId": "0a07d27f-dc24-15e5-a36b-3a07d60d77b6",
+                                "type": 1,
+                                "routeName": "maindata_distributor",
+                                "routeParams": "",
+                                "routeQuery": "",
+                                "icon": "captcha",
+                                "iconColor": "",
+                                "url": "",
+                                "target": 0,
+                                "dialogWidth": "800px",
+                                "dialogHeight": "600px",
+                                "dialogFullscreen": false,
+                                "level": 2,
+                                "sort": 1,
+                                "show": true,
+                                "buttons": [
+                                    "maindata_mdistributor_delete",
+                                    "maindata_mdistributor_add",
+                                    "maindata_mdistributor_edit",
+                                    "maindata_mdistributor_export"
+                                ],
+                                "locales": {
+                                    "zh-cn": "客户信息",
+                                    "en": "Distributor"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "6722c640-4128-c0b5-e1cf-c05581156661",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "type": 0,
+                "routeName": "",
+                "routeParams": "",
+                "routeQuery": "",
+                "icon": "cog",
+                "iconColor": "",
+                "url": "",
+                "target": 0,
+                "dialogWidth": "800px",
+                "dialogHeight": "600px",
+                "dialogFullscreen": false,
+                "level": 1,
+                "sort": 0,
+                "show": true,
+                "buttons": [],
+                "locales": {
+                    "zh-cn": "系统运维",
+                    "en": "System"
+                },
+                "children": [
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158887",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581156661",
+                        "type": 1,
+                        "routeName": "admin_config",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "wrench",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 1,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "配置中心",
+                            "en": "Setting"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "6722c640-4128-c0b5-e1cf-c05581158880",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "type": 0,
+                "routeName": "",
+                "routeParams": "",
+                "routeQuery": "",
+                "icon": "lock",
+                "iconColor": "",
+                "url": "",
+                "target": 0,
+                "dialogWidth": "800px",
+                "dialogHeight": "600px",
+                "dialogFullscreen": false,
+                "level": 1,
+                "sort": 2,
+                "show": true,
+                "buttons": [],
+                "locales": {
+                    "zh-cn": "权限管理",
+                    "en": "Permission Manage"
+                },
+                "children": [
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158883",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_role",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "role",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 3,
+                        "show": true,
+                        "buttons": [
+                            "admin_role_bindmenu",
+                            "admin_role_edit",
+                            "admin_role_delete",
+                            "admin_role_add"
+                        ],
+                        "locales": {
+                            "zh-cn": "角色管理",
+                            "en": "Role Manage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158882",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_menu",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "menu",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 2,
+                        "show": true,
+                        "buttons": [
+                            "admin_menugroup_delete",
+                            "admin_menugroup_edit",
+                            "admin_menugroup_add",
+                            "admin_menu_edit",
+                            "admin_menu_remove",
+                            "admin_menu_add",
+                            "admin_menugroup_manage"
+                        ],
+                        "locales": {
+                            "zh-cn": "菜单管理",
+                            "en": "Menu Manage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158886",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_module",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "module",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 1,
+                        "show": true,
+                        "buttons": [],
+                        "locales": {
+                            "zh-cn": "模块中心",
+                            "en": "Module Center"
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158884",
+                        "parentId": "6722c640-4128-c0b5-e1cf-c05581158880",
+                        "type": 1,
+                        "routeName": "admin_account",
+                        "routeParams": "",
+                        "routeQuery": "",
+                        "icon": "user",
+                        "iconColor": "",
+                        "url": "",
+                        "target": 0,
+                        "dialogWidth": "800px",
+                        "dialogHeight": "600px",
+                        "dialogFullscreen": false,
+                        "level": 2,
+                        "sort": 4,
+                        "show": true,
+                        "buttons": [
+                            "admin_account_delete",
+                            "admin_account_edit",
+                            "admin_account_roleorgset",
+                            "admin_account_add"
+                        ],
+                        "locales": {
+                            "zh-cn": "账户管理",
+                            "en": "Account Manage"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ],
+        "buttons": [],
+        "roles": [
+            {
+                "label": "管理员",
+                "value": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "disabled": false
+            }
+        ],
+        "accountRoles": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "id": "bdcf929d-d2d6-4e83-8493-c0c94d482aaf"
+            }
+        ],
+        "accountRoleOrgs": [],
+        "aros": [
+            {
+                "roleId": "6722c640-4128-c0b5-e1cf-c05581152655",
+                "roleName": "管理员",
+                "orgs": []
+            }
+        ],
+        "mOrgs": {
+            "headOffice": [],
+            "dbs": [],
+            "marketingCenters": [],
+            "saleRegions": [],
+            "departments": [],
+            "stations": []
+        }
+    }
+}

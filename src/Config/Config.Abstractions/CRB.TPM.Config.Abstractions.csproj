@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>CRB.TPM 配置抽象库</Description>
+  </PropertyGroup>
+
+</Project>

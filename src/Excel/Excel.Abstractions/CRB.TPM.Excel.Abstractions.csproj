@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>CRB.TPM Excel抽象库</Description>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Auth\Auth.Abstractions\CRB.TPM.Auth.Abstractions.csproj" />
+    <ProjectReference Include="..\..\Data\Data.Abstractions\CRB.TPM.Data.Abstractions.csproj" />
+    <ProjectReference Include="..\..\Module\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

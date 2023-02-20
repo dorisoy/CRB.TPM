@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+    <Description>CRB.TPM模块化Web库</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
+		<PackageReference Include="NSwag.AspNetCore" Version="13.18.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\Utils\Utils.Web\CRB.TPM.Utils.Web.csproj" />
+		<ProjectReference Include="..\..\Excel\Excel.Abstractions\CRB.TPM.Excel.Abstractions.csproj" />
+		<ProjectReference Include="..\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+		<ProjectReference Include="..\Module.Core\CRB.TPM.Module.Core.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Attributes\**" />
+    <EmbeddedResource Remove="Attributes\**" />
+    <None Remove="Attributes\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Handlers\IAuditingHandler.cs" />
+    <Compile Remove="Controllers\AuditInfoController.cs" />
+    <Compile Remove="Controllers\LogController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Module\Module.Web\CRB.TPM.Module.Web.csproj" />
+    <ProjectReference Include="..\..\AuditInfo\AuditInfo.Web\AuditInfo.Web.csproj" />
+    <ProjectReference Include="..\Admin.Core\Admin.Core.csproj" />
+  </ItemGroup>
+
+  <Import Project="..\..\module.build.targets" />
+
+  <ItemGroup>
+    <Content Remove="Attributes\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties _3modules_46220_3admin_4_3initdata_1json__JsonSchema="https://bitbucket.org/atlassianlabs/atlascode/raw/main/resources/schemas/pipelines-schema.json" /></VisualStudio></ProjectExtensions>
+
+</Project>

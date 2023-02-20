@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Cache\Cache.Abstractions\CRB.TPM.Cache.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Data\Data.Core\CRB.TPM.Data.Core.csproj" />
+    <ProjectReference Include="..\..\Admin\Admin.Core\Admin.Core.csproj" />
+  </ItemGroup>
+
+</Project>

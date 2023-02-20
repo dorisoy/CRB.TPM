@@ -1,0 +1,24 @@
+stages:
+    - build
+    - deploy
+
+build:
+    stage: build
+    tags:
+        - docker
+    script:
+        - cd ./
+        - docker build -f "./Dockerfile" --force-rm -t crb-tpm "./"
+    only:
+        - dev
+
+deploy:
+    stage: deploy
+    tags:
+        - docker
+    script:
+        - cd ./
+        - docker stop crb-tpm || true && docker rm crb-tpm || true
+        - docker run -d --restart unless-stopped -p 6220:6220 -v /usr/grady/logs/crb-tpm/:/logs/ --name crb-tpm crb-tpm
+    only:
+        - dev

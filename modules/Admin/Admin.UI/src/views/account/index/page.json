@@ -1,0 +1,73 @@
+{
+  "name": "admin_account",
+  "icon": "user",
+  "path": "/admin/account",
+  "permissions": [
+    "admin_account_query_get",
+    "admin_account_DefaultPassword_get"
+  ],
+  "buttons": {
+    "add": {
+      "text": "tpm.add",
+      "code": "admin_account_add",
+      "permissions": [
+        "admin_account_add_post"
+      ]
+    },
+    "edit": {
+      "text": "tpm.edit",
+      "code": "admin_account_edit",
+      "permissions": [
+        "admin_account_edit_get",
+        "admin_account_update_post"
+      ]
+    },
+    "remove": {
+      "text": "tpm.delete",
+      "code": "admin_account_delete",
+      "permissions": [
+        "admin_account_delete_delete"
+      ]
+    },
+    "roleorgset": {
+      "text": "组织",
+      "icon": "cog",
+      "code": "admin_account_roleorgset",
+      "permissions": [
+        "admin_account_roleorgset_post"
+      ]
+    },
+    "import": {
+      "text": "导入",
+      "icon": "cog",
+      "code": "admin_account_import",
+      "permissions": [
+        "admin_account_import_post"
+      ]
+    },
+    "importTemplate": {
+      "text": "导入模板",
+      "icon": "cog",
+      "code": "admin_account_importTemplate",
+      "permissions": [
+        "admin_account_importTemplate_post"
+      ]
+    },
+    "export": {
+      "text": "导出",
+      "icon": "cog",
+      "code": "admin_account_export",
+      "permissions": [
+        "admin_account_export_download"
+      ]
+    },
+    "batPermission": {
+      "text": "批量分配权限",
+      "icon": "cog",
+      "code": "admin_account_batPermission",
+      "permissions": [
+        "admin_account_dbatPermission_post"
+      ]
+    }
+  }
+}

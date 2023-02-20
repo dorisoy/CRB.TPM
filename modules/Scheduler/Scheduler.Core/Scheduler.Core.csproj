@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Auth\Auth.Jwt\CRB.TPM.Auth.Jwt.csproj" />
+    <ProjectReference Include="..\..\..\src\Data\Data.Core\CRB.TPM.Data.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\Module\Module.Core\CRB.TPM.Module.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\Auth\Auth.Abstractions\CRB.TPM.Auth.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Cache\Cache.Abstractions\CRB.TPM.Cache.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Config\Config.Abstractions\CRB.TPM.Config.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Logging\Logging.Abstractions\CRB.TPM.Logging.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Excel\Excel.Abstractions\CRB.TPM.Excel.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\TaskScheduler\TaskScheduler.Core\CRB.TPM.TaskScheduler.Core.csproj" />
+    <ProjectReference Include="..\..\Admin\Admin.Core\Admin.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp.Drawing" Version="1.0.0-beta13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\Group\Vo\" />
+    <Folder Include="Application\JobHttp\Vo\" />
+    <Folder Include="Application\JobLog\Vo\" />
+    <Folder Include="Application\Job\Vo\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Description>CRB.TPM 模型验证</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Module\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+	  <ProjectReference Include="..\Validation.Abstractions\CRB.TPM.Validation.Abstractions.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,708 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": "10000",
+    "timestamp": 1669796017,
+    "data": [
+        {
+            "id": "005415A3-5271-4FE0-A25A-8D04707F49C8",
+            "name": "营销中心总经理",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250703"
+        },
+        {
+            "id": "007C946E-F729-4B60-A45B-7B2BD132A760",
+            "name": "广西营销中心",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50183979"
+        },
+        {
+            "id": "02B4E788-E98D-47C2-A2FC-C20AB9CE0E57",
+            "name": "区域财务部",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50244845"
+        },
+        {
+            "id": "06999DEF-704C-4054-849A-8EEB4A809462",
+            "name": "湖北营销中心",
+            "parentId": "6051F85E-37BE-4D86-B9F2-AF17507FDFC2",
+            "type": 30,
+            "orgCode": "50001965"
+        },
+        {
+            "id": "0D0EE6E4-C844-4635-AE95-4DA28E1CB978",
+            "name": "青藏营销中心",
+            "parentId": "8DFE433E-8B1F-4CFE-84AD-B733C722D4DE",
+            "type": 30,
+            "orgCode": "50184594"
+        },
+        {
+            "id": "0DAD668C-C9F8-4024-97FF-F12C52FD84A6",
+            "name": "北京高端营销中心(作废)",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50228042"
+        },
+        {
+            "id": "0F3D884D-DD98-4EB6-9CA8-AD5FDFD876CC",
+            "name": "区域公司人力资源部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50216607"
+        },
+        {
+            "id": "0F3F4B52-6669-453C-8DC4-073A1F19C67F",
+            "name": "湖北区域营运部",
+            "parentId": "6051F85E-37BE-4D86-B9F2-AF17507FDFC2",
+            "type": 30,
+            "orgCode": "50263142"
+        },
+        {
+            "id": "133D8A09-0736-4110-A8F1-76FA006D35E1",
+            "name": "景芝白酒山东分公司",
+            "parentId": "FE37FAC8-0A8F-4B59-B866-D98E2E7602E5",
+            "type": 30,
+            "orgCode": "50284048"
+        },
+        {
+            "id": "207EFE3A-08B8-48E9-A8DF-66791852CC67",
+            "name": "江苏营销中心",
+            "parentId": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "type": 30,
+            "orgCode": "50000617"
+        },
+        {
+            "id": "22B22890-D54D-45C0-82FE-2D2880C21BE9",
+            "name": "江西营销中心",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50002366"
+        },
+        {
+            "id": "22D09FD7-76FC-4B0E-B3CA-6092C7F67C87",
+            "name": "营运中心总经理",
+            "parentId": "3F00C094-9188-4236-A691-3132771AB2AF",
+            "type": 30,
+            "orgCode": "50250705"
+        },
+        {
+            "id": "23F0D1CB-BF8F-457E-BA37-355D9F57124C",
+            "name": "区域公司人力资源部",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50154693"
+        },
+        {
+            "id": "267E3764-D92E-4807-A202-D436ECFA8433",
+            "name": "辽宁区域营运部",
+            "parentId": "79BB2569-18A6-48C7-88B3-987200FE19F2",
+            "type": 30,
+            "orgCode": "50262640"
+        },
+        {
+            "id": "2E109A62-CC00-4547-BB5E-99853810E377",
+            "name": "山东营销中心",
+            "parentId": "DD657062-4B04-41B2-837A-762809D2B3DE",
+            "type": 30,
+            "orgCode": "50002139"
+        },
+        {
+            "id": "31EF94ED-B674-4E8A-8D41-9F7A667F20E9",
+            "name": "市场服务平台",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250702"
+        },
+        {
+            "id": "32FC9FDF-6ABA-48EE-BB88-A2924F6C53A7",
+            "name": "辽宁区域财务部",
+            "parentId": "79BB2569-18A6-48C7-88B3-987200FE19F2",
+            "type": 30,
+            "orgCode": "50262300"
+        },
+        {
+            "id": "3337D44B-BD8D-44B4-888A-D05CD8844D65",
+            "name": "预备人员部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50262394"
+        },
+        {
+            "id": "34A81469-18EA-4D82-B49B-5D115F4F0069",
+            "name": "福建营销中心",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50202986"
+        },
+        {
+            "id": "39B71AA7-51E7-495A-A780-6F6BEE141F24",
+            "name": "区域行政管理部",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244208"
+        },
+        {
+            "id": "3AE35257-131F-467F-90C5-480DDA4B33CD",
+            "name": "区域公司财务部",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50154691"
+        },
+        {
+            "id": "3CC08988-900A-4640-A392-67761487836F",
+            "name": "渠道发展部",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250701"
+        },
+        {
+            "id": "413FF0B4-5A89-403B-BFF1-E27C3225EB1F",
+            "name": "全国价格检查专项虚拟中心",
+            "parentId": "6812DBE0-07EF-455E-BBA0-B6252B7ECC16",
+            "type": 30,
+            "orgCode": "50234169"
+        },
+        {
+            "id": "4401383F-3C5D-4153-B02F-BA8FC3594858",
+            "name": "区域法律事务办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244216"
+        },
+        {
+            "id": "4450B308-6D3F-41E6-9E71-CA787DE88800",
+            "name": "辽宁区域采购部",
+            "parentId": "79BB2569-18A6-48C7-88B3-987200FE19F2",
+            "type": 30,
+            "orgCode": "50277348"
+        },
+        {
+            "id": "4B311A2F-06B9-4DC4-A8C9-861CBD121556",
+            "name": "区域采购部",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50272029"
+        },
+        {
+            "id": "4DB3C80B-958B-48C4-8DEA-30A69A0235DC",
+            "name": "广州营销中心",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50209405"
+        },
+        {
+            "id": "4E8E2160-0A88-49FF-BDD8-8B68B3985CDF",
+            "name": "区域营运部",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50262065"
+        },
+        {
+            "id": "4ECAD6D5-F823-462C-AB59-0DA89D4357F4",
+            "name": "陕西营销中心",
+            "parentId": "781D56EB-A2DC-4375-AAA5-D8C2D7DED5B9",
+            "type": 30,
+            "orgCode": "50009279"
+        },
+        {
+            "id": "551E7AB9-26C1-4394-B60F-411171CF7839",
+            "name": "云南营销中心",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50238486"
+        },
+        {
+            "id": "5A345FA3-9DF4-4892-8F1B-3E7BA4AFBB2C",
+            "name": "黑吉区域营运部",
+            "parentId": "73A29FD8-BF76-4A79-9F36-62A47F5EDDE2",
+            "type": 30,
+            "orgCode": "50262072"
+        },
+        {
+            "id": "5D6E9E0B-5345-48BB-B15C-682994AA58DC",
+            "name": "深圳营销中心",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50001966"
+        },
+        {
+            "id": "65545D2E-4948-48A2-BA26-EDA728A09790",
+            "name": "区域法律部",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50244847"
+        },
+        {
+            "id": "669752A3-EA5E-4F07-B03E-370E6D68870A",
+            "name": "浙江营销中心",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50000665"
+        },
+        {
+            "id": "6A3229BC-4938-44A3-9196-949CE97D65FD",
+            "name": "区域审计部",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50245060"
+        },
+        {
+            "id": "6D698C5E-0FE9-40CE-A5EF-9B09C2CA6D4B",
+            "name": "区域公司法律部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50204575"
+        },
+        {
+            "id": "70019139-EE10-4C5E-890B-4CF7A208240F",
+            "name": "香港事业部",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50244024"
+        },
+        {
+            "id": "77271D4B-2BAD-407E-B3F4-B0C66E06538C",
+            "name": "贵州营销中心",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50002482"
+        },
+        {
+            "id": "7AEB0F6B-1906-47A4-8E3B-8AFDB5971986",
+            "name": "甘新营销中心",
+            "parentId": "8DFE433E-8B1F-4CFE-84AD-B733C722D4DE",
+            "type": 30,
+            "orgCode": "50184274"
+        },
+        {
+            "id": "7B677C73-B177-4B64-8499-4A9FA6AF140A",
+            "name": "河南营销中心",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50042763"
+        },
+        {
+            "id": "7EE98F7C-E2AC-4690-9F54-5B03EFB46B85",
+            "name": "产品部",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250699"
+        },
+        {
+            "id": "7F50097A-E4D0-43D4-9B18-C51941D808F7",
+            "name": "区域内公司",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50256481"
+        },
+        {
+            "id": "7FEB1E5C-F598-46C8-A5BC-9A9C65B9F8DC",
+            "name": "区域公司营运部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50204571"
+        },
+        {
+            "id": "81850FF8-34AD-43EB-AC41-04CD206FBC49",
+            "name": "营运部",
+            "parentId": "3F00C094-9188-4236-A691-3132771AB2AF",
+            "type": 30,
+            "orgCode": "50253402"
+        },
+        {
+            "id": "836BD3EB-78F8-438F-8CDD-33AADF337C45",
+            "name": "区域公司行政部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50216580"
+        },
+        {
+            "id": "8A737744-BE75-4A72-9E55-2189C0FF0DC8",
+            "name": "区域审计办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244213"
+        },
+        {
+            "id": "8CEF49B8-416C-4027-A66D-C74FD7908688",
+            "name": "中国品牌部",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250698"
+        },
+        {
+            "id": "8D4A4D01-A728-46B0-84E5-F77EF2D18CCA",
+            "name": "宁蒙营销中心",
+            "parentId": "8DFE433E-8B1F-4CFE-84AD-B733C722D4DE",
+            "type": 30,
+            "orgCode": "50182977"
+        },
+        {
+            "id": "8F1778DD-155C-4AF1-88AA-FF5D1A17E3C2",
+            "name": "区域人力资源部",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244207"
+        },
+        {
+            "id": "90C09E47-4D9D-43DC-8066-8C8954F88950",
+            "name": "客服服务部",
+            "parentId": "3F00C094-9188-4236-A691-3132771AB2AF",
+            "type": 30,
+            "orgCode": "50250706"
+        },
+        {
+            "id": "93EEF6D4-60CF-4759-A31F-AF07729742BF",
+            "name": "行政管理部",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50238844"
+        },
+        {
+            "id": "95435671-3C8E-46AB-8DD5-CC1CB9D23E2C",
+            "name": "综合办公室",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50239226"
+        },
+        {
+            "id": "959B5460-B55C-41C4-BAEF-F484AF0F4DB3",
+            "name": "辽宁营销中心",
+            "parentId": "79BB2569-18A6-48C7-88B3-987200FE19F2",
+            "type": 30,
+            "orgCode": "50002185"
+        },
+        {
+            "id": "982E157F-1860-46FA-8490-FF9E63DE6785",
+            "name": "区域财务部",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244182"
+        },
+        {
+            "id": "9A275555-0370-42AE-9D41-027BBC8C9BD9",
+            "name": "福建营销中心（已作废）",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50034706"
+        },
+        {
+            "id": "9BD9CF6B-E23E-4916-BD9E-E0C4AC0B0D7D",
+            "name": "四川营销中心",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50002083"
+        },
+        {
+            "id": "9E92CC00-B6AE-44E4-AF15-3863682E6AB8",
+            "name": "区域营运部",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244210"
+        },
+        {
+            "id": "A197C786-7E8E-47E3-AE68-538E10E36105",
+            "name": "区域营运部",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50218157"
+        },
+        {
+            "id": "A233D0EF-6A18-4E89-AD41-E5E796CD8C94",
+            "name": "苏沪高端营销中心",
+            "parentId": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "type": 30,
+            "orgCode": "50245256"
+        },
+        {
+            "id": "A48645C6-76F4-47F4-B408-38908E7EB8EC",
+            "name": "啤酒城(啤酒公园)",
+            "parentId": "781D56EB-A2DC-4375-AAA5-D8C2D7DED5B9",
+            "type": 30,
+            "orgCode": "50271414"
+        },
+        {
+            "id": "A49C4061-19B3-4C6F-BA8C-54C1D8623994",
+            "name": "总部营销中心",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250700"
+        },
+        {
+            "id": "A4F654AA-2C80-4D2E-9828-316C118FC7EA",
+            "name": "河北营销中心",
+            "parentId": "2811D0E4-0877-402D-80DF-1D22C74EBD77",
+            "type": 30,
+            "orgCode": "50005824"
+        },
+        {
+            "id": "A55DA6A5-D45A-4755-AC09-2D044763FC74",
+            "name": "天津营销中心",
+            "parentId": "2811D0E4-0877-402D-80DF-1D22C74EBD77",
+            "type": 30,
+            "orgCode": "50002285"
+        },
+        {
+            "id": "A564D264-BC8D-44B8-B9BF-4EA824271011",
+            "name": "董事会办公室",
+            "parentId": "2460F111-C575-40BA-9734-475AABE4A0C9",
+            "type": 30,
+            "orgCode": "50286590"
+        },
+        {
+            "id": "ABAFB4D9-4E4B-4022-8A5B-0471A9F19055",
+            "name": "湖南营销中心",
+            "parentId": "6051F85E-37BE-4D86-B9F2-AF17507FDFC2",
+            "type": 30,
+            "orgCode": "50005477"
+        },
+        {
+            "id": "ACB48D6D-4B55-4086-AE85-197AE310CD7E",
+            "name": "区域营运部",
+            "parentId": "DD657062-4B04-41B2-837A-762809D2B3DE",
+            "type": 30,
+            "orgCode": "50263101"
+        },
+        {
+            "id": "AF2ADDA3-BCE5-44AC-AA91-A4CCC0B3434C",
+            "name": "区域公司营运部",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50154690"
+        },
+        {
+            "id": "B1B336B4-15FB-4CF5-A857-3EFB52281776",
+            "name": "营运部",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50238845"
+        },
+        {
+            "id": "B31B7956-E95A-4AF8-9B7C-D2148DA529BA",
+            "name": "区域智信办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244214"
+        },
+        {
+            "id": "B3222762-A903-4457-947E-368EAEA4C94B",
+            "name": "区域公司营运部",
+            "parentId": "781D56EB-A2DC-4375-AAA5-D8C2D7DED5B9",
+            "type": 30,
+            "orgCode": "50262940"
+        },
+        {
+            "id": "B66B6546-2FCA-441F-A4DB-3FF9F9CD1E99",
+            "name": "销售管理部",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250690"
+        },
+        {
+            "id": "B98BB0CE-C067-4893-AA38-DC1C77D7422E",
+            "name": "内部大区",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50248497"
+        },
+        {
+            "id": "BB56C567-ECC9-4986-8A34-F858F140EEF1",
+            "name": "人力资源部",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50238843"
+        },
+        {
+            "id": "BBA0E16E-31B2-4BF3-B08F-DB685F6D11FF",
+            "name": "山西营销中心",
+            "parentId": "781D56EB-A2DC-4375-AAA5-D8C2D7DED5B9",
+            "type": 30,
+            "orgCode": "50002354"
+        },
+        {
+            "id": "BC9BDFF5-0C4B-4A67-879F-9EEAAF7E89E6",
+            "name": "区域EHS办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244215"
+        },
+        {
+            "id": "BE11E53D-4CAE-46D1-856C-CA5618F47B26",
+            "name": "区域外公司",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50256582"
+        },
+        {
+            "id": "C06A4679-831B-4688-AC53-140665572A32",
+            "name": "区域营运部",
+            "parentId": "2811D0E4-0877-402D-80DF-1D22C74EBD77",
+            "type": 30,
+            "orgCode": "50263144"
+        },
+        {
+            "id": "C129E158-2252-4634-AB85-4C5F5B65BF15",
+            "name": "区域公司营运部",
+            "parentId": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "type": 30,
+            "orgCode": "50263106"
+        },
+        {
+            "id": "C175F829-CB7B-4D65-B2CD-5E77699A4130",
+            "name": "区域综合办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244212"
+        },
+        {
+            "id": "C201BDF4-83D0-428A-8642-ED0C0E4F1AB2",
+            "name": "区域营运部",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50244846"
+        },
+        {
+            "id": "C3C72F2A-8F81-4B50-BDFD-9EC97E6CD001",
+            "name": "云南营销中心(旧)",
+            "parentId": "C51EA658-AE63-480B-AD80-3AE29E07E094",
+            "type": 30,
+            "orgCode": "50002164"
+        },
+        {
+            "id": "C66A7B01-9D7F-45CE-BF41-75B16CC6D6D1",
+            "name": "上海地理营销中心",
+            "parentId": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "type": 30,
+            "orgCode": "50000619"
+        },
+        {
+            "id": "CFCA4D80-6A2A-41B7-A2C6-B6AAC07BD448",
+            "name": "财务部",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50238840"
+        },
+        {
+            "id": "D08F34F4-36DF-4931-975E-193ABA617E0B",
+            "name": "区域营运部",
+            "parentId": "8DFE433E-8B1F-4CFE-84AD-B733C722D4DE",
+            "type": 30,
+            "orgCode": "50263284"
+        },
+        {
+            "id": "D2240588-331C-4D61-B7AA-9B1D9CDA95F1",
+            "name": "区域采购部",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244217"
+        },
+        {
+            "id": "D5B12639-7D39-4605-9E16-EC0AFF8023E0",
+            "name": "国际品牌部",
+            "parentId": "17E28EB2-03EB-4343-AE22-FACF8F10AD76",
+            "type": 30,
+            "orgCode": "50250697"
+        },
+        {
+            "id": "DE13ADE2-FC41-4885-AF5C-7D7501587FE9",
+            "name": "重庆营销中心",
+            "parentId": "721F4E9F-D8BF-4E43-8767-6CE9F6F56F8D",
+            "type": 30,
+            "orgCode": "50026283"
+        },
+        {
+            "id": "DEB9E954-1D88-463F-BE4A-195824AE6891",
+            "name": "区域公司审计部",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50219814"
+        },
+        {
+            "id": "DFBB9F11-8FBA-40BB-812E-EB5BC4483ABE",
+            "name": "区域纪委办公室",
+            "parentId": "0898CC1B-17C6-4480-BDD8-42DD0DF81A65",
+            "type": 30,
+            "orgCode": "50244211"
+        },
+        {
+            "id": "E22102AD-A299-4084-898A-515A723579D4",
+            "name": "纪委办公室",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50239225"
+        },
+        {
+            "id": "E3114236-1160-434D-BB29-FE2322AF5711",
+            "name": "区域公司财务部",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50204568"
+        },
+        {
+            "id": "E32234B8-B840-4D91-89E3-BCC770C73504",
+            "name": "管理团队",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50239640"
+        },
+        {
+            "id": "E5542CA8-EB00-4721-A428-DA86E4AE346A",
+            "name": "海南营销中心",
+            "parentId": "42E726AA-9CF8-424B-9188-90963D16201A",
+            "type": 30,
+            "orgCode": "50006667"
+        },
+        {
+            "id": "E748EEA8-A24A-49A2-B1AB-3E9997B72190",
+            "name": "福州营销中心（已作废）",
+            "parentId": "E3D730C8-E6CE-4A6C-8F40-40BA9FC4213B",
+            "type": 30,
+            "orgCode": "50232426"
+        },
+        {
+            "id": "E9337547-F7DF-4AC7-A3AF-449C4ECE1C24",
+            "name": "北京营销中心",
+            "parentId": "F3AF0045-6BC0-4BA1-889A-329D8FE25A6B",
+            "type": 30,
+            "orgCode": "50002431"
+        },
+        {
+            "id": "EA1932AC-DADA-484D-8CE2-171484492F6C",
+            "name": "区域公司法律部",
+            "parentId": "9C85178E-D871-452B-A3C1-B1C3D70C1A0E",
+            "type": 30,
+            "orgCode": "50154692"
+        },
+        {
+            "id": "EC0FBA1E-453E-477B-871A-BADCEA032B4B",
+            "name": "安徽省营销中心",
+            "parentId": "343A2ACA-F408-4E70-BF18-3E49EF707D18",
+            "type": 30,
+            "orgCode": "50000616"
+        },
+        {
+            "id": "F422B1DC-B675-4A76-8BE1-60CC3A3020E2",
+            "name": "吉林营销中心",
+            "parentId": "73A29FD8-BF76-4A79-9F36-62A47F5EDDE2",
+            "type": 30,
+            "orgCode": "50002063"
+        },
+        {
+            "id": "FC522490-593E-4577-90D5-64DB1E1A7149",
+            "name": "黑龙江营销中心",
+            "parentId": "73A29FD8-BF76-4A79-9F36-62A47F5EDDE2",
+            "type": 30,
+            "orgCode": "50011209"
+        },
+        {
+            "id": "FC99608D-02BD-4D84-88F0-557CA776561E",
+            "name": "苏沪生产中心",
+            "parentId": "34CDFDD5-2346-4318-BB5C-BFE3CB850197",
+            "type": 30,
+            "orgCode": "50260028"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "successful": true,
+    "msg": "success",
+    "code": null,
+    "timestamp": 1669098499,
+    "data": {
+        "total": 4,
+        "rows": [
+            {
+                "locales": {
+                    "zh-cn": "中文",
+                    "en": "英文"
+                },
+                "id": "6722c640-4128-c0b5-e1cf-c05581158886"
+            },
+        ],
+        "data": null
+    }
+}
+
+
+{
+    "successful": true,
+    "msg": "success",
+    "code": null,
+    "timestamp": 1669103519,
+    "data": [
+        {
+            "children": [
+                {
+                    "children": [],
+                    "id": "6722c640-4128-c0b5-e1cf-c05581158886",
+                    "label": null,
+                    "value": null,
+                    "extend": null,
+                    "item": {
+                        "groupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+                        "parentId": "00000000-0000-0000-0000-000000000000",
+                        "locales": {
+                            "zh-cn": "模块中心",
+                            "en": "Module Center"
+                        },
+                        "id": "6722c640-4128-c0b5-e1cf-c05581158886"
+                    },
+                    "path": []
+                }
+            ],
+            "id": "6722c640-4128-c0b5-e1cf-c05581158880",
+            "label": null,
+            "value": null,
+            "extend": null,
+            "item": {
+                "groupId": "6722c640-4128-c0b5-e1cf-c05581151111",
+                "parentId": "00000000-0000-0000-0000-000000000000",
+                "locales": {
+                    "zh-cn": "中文",
+                    "en": "英文"
+                },
+                "id": "6722c640-4128-c0b5-e1cf-c05581158880"
+            },
+            "path": []
+        }
+    ]
+}
+
+
+{
+    "successful": true,
+    "msg": "success",
+    "code": null,
+    "timestamp": 1669098233,
+    "data": {
+        "total": 2,
+        "rows": [
+            {
+                "name": "菜单组1",
+                "remarks": "菜单组1",
+                "createdBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+                "creator": "超级管理员",
+                "createdTime": "2022-11-22 14:15:06",
+                "modifiedBy": null,
+                "modifier": null,
+                "modifiedTime": null,
+                "id": "e51fd3fa-39f1-4f82-08e4-3a07b026aa58"
+            },
+            {
+                "name": "通用权限管理平台",
+                "remarks": "通用权限管理平台",
+                "createdBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+                "creator": "Dorisoy",
+                "createdTime": "2021-06-22 09:00:00",
+                "modifiedBy": "6722c640-4128-c0b5-e1cf-c05581152653",
+                "modifier": "Dorisoy",
+                "modifiedTime": "2021-06-22 09:00:00",
+                "id": "6722c640-4128-c0b5-e1cf-c05581151111"
+            }
+        ],
+        "data": null
+    }
+}
+
+
+
+
+{
+    "successful": true,
+    "msg": "success",
+    "code": null,
+    "timestamp": 1669103519,
+    "data": [
+        {
+            "children": [
+                {}
+            ],
+            "label": "",
+            "value": "e51fd3fa-39f1-4f82-08e4-3a07b026aa58",
+            "disabled": false,
+            "data": null
+        },
+        {
+            "children": [
+                {}
+            ],
+            "label": "",
+            "value": "6722c640-4128-c0b5-e1cf-c05581151111",
+            "disabled": false,
+            "data": null
+        }
+    ]
+}

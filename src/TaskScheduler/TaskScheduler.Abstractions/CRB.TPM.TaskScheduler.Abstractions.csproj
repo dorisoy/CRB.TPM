@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Description>CRB.TPM 任务调度抽象库</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Quartz\QuartzConfig.cs" />
+	  <Compile Remove="Quartz\QuartzConfigChangedEvent.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Quartz" Version="3.5.0" />
+		<PackageReference Include="Quartz.Serialization.Json" Version="3.5.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Config\Config.Abstractions\CRB.TPM.Config.Abstractions.csproj" />
+	  <ProjectReference Include="..\..\Module\Module.Abstractions\CRB.TPM.Module.Abstractions.csproj" />
+	  <ProjectReference Include="..\..\Utils\Utils\CRB.TPM.Utils.csproj" />
+	</ItemGroup>
+
+</Project>
