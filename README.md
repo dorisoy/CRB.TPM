@@ -59,7 +59,7 @@ GitLab示例源码仓库：
 
 配置信息都保存在`appsettings.json`文件中，根据功能来区分，如下：
 
-```json
+```xml
 {
   //主机配置
   "Host": {
@@ -245,7 +245,7 @@ GitLab示例源码仓库：
 ## 2、配置节点分解
 Appsetting 配置项总共有3大配置节点，分别是Host（主机配置），Serilog（日志配置），CRB.TPM（CRB.TPM框架本身的配置）
 
-```json
+```xml
 {
   //主机配置
   "Host": {
@@ -268,7 +268,7 @@ Appsetting 配置项总共有3大配置节点，分别是Host（主机配置）�
 
 > Host 结构
 
-```json
+```xml
 //主机配置
 "Host": {
   //绑定URL
@@ -332,7 +332,7 @@ Serilog是将文件资源常驻内存的方式写入 优点是写入效率快 �
 
 > Serilog 配置
 
-```json
+```xml
 //Serilog日志配置
 "Serilog": {
   "MinimumLevel": {
@@ -381,7 +381,7 @@ builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
 
 > CRB.TPM
 
-```json
+```xml
   //CRB.TPM框架本身的配置
 "CRB.TPM": {
   //通用配置
@@ -415,7 +415,7 @@ builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
 
 > Common
 
-```json
+```xml
 //通用配置
 "Common": {
   //临时文件目录，默认应用程序根目录中的Temp目录
@@ -433,7 +433,7 @@ builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
 
 > 全局Db配置
 
-```json
+```xml
 //通用全局数据配置（在UseReadWriteSeparation开启下，该配置会被模块配置替换）
 "Db": {
   //数据库类型，0：SqlServer 1：MySql 2：Sqlite  3：PostgreSQL  4：Oracle
@@ -496,7 +496,7 @@ public class CommonOptions
 
 > Modules
 
-```json
+```xml
  //模块列表
 "Modules": {
   //主管理模块，注：（该模块不可缺失）
@@ -623,7 +623,7 @@ public class ModuleDbOptions
 
 > Auth
 
-```json
+```xml
 //身份认证与授权配置项
 "Auth": {
   //启用权限验证(生产环境慎重关闭)
@@ -696,7 +696,7 @@ public class AuthOptions
 
 > Cache 提供器，支持MemoryCache 和 Redis
 
-```json
+```xml
 //缓存配置
 "Cache": {
   //缓存提供器，0、MemoryCache 1、Redis
@@ -740,13 +740,13 @@ CRB.TPM 的读写分离基于MSSQL 的always on 和 MySQL的 ProxySQL模式，�
 
 > 要开启读写分离，需要配置全局提供节点 CRB.TPM.Common.Db: 下的 UseReadWriteSeparation 和 Modules 列表下的具体米宽的数据库配置，当模块下的让任意个UseReadWriteSeparation 开启式，全局公共配置将被覆盖，保留全局配置的目的是，主项目在没有模块的前提下，能使用自己的配置。
 
-```json
+```xml
 //读写分离配置
 "UseReadWriteSeparation": false
 ```
 
 > ReadWriteSeparationOptions 读写分离配置
-```json
+```xml
 //读写分离配置
 "UseReadWriteSeparation": false,
 "ReadWriteSeparationOptions": {
@@ -998,7 +998,7 @@ PS D:\Git\CRB\CRB.TPM\modules\Admin\Admin.UI>
 
 > 更改数据配置，配置自动创建数据库，然后F5 运行WebHost项目
 
-```json
+```xml
 {
   //主机配置
   "Host": {
